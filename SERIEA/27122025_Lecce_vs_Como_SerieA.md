@@ -13,7 +13,7 @@
 | Metric | Model | Market | Gap |
 |--------|-------|--------|-----|
 | **Asian Handicap** | +1.00 (Como -1.00) | +0.75 (Como -0.75) | **-0.25** |
-| **Total Goals** | 2.00 | O/U 2.5 | **+0.50** |
+| **Total Goals** | 2.00 | O/U 2.25 (O: 1.99 / U: 1.85) | **+0.25** |
 
 **1X2 Odds:** 4.92 / 3.42 / 1.79
 
@@ -22,7 +22,7 @@
 ## GAP INTERPRETATION
 
 - **AH Gap (-0.25):** Market is softer on Como's margin than model
-- **Total Gap (+0.50):** SIGNIFICANT - Market expects MORE goals than model
+- **Total Gap (+0.25):** Minor - Market expects slightly more goals than model
 
 **Classification:** **CASE A — Controlled Away Win Expected**
 - Como heavily favored away
@@ -131,8 +131,8 @@
 ## TOTALS ANALYSIS (KEY FINDING)
 
 **Model expects:** 2.00 goals
-**Market offers:** O/U 2.5
-**Gap:** +0.50 (Market expects MORE goals)
+**Market offers:** O/U 2.25 (O: 1.99 / U: 1.85)
+**Gap:** +0.25 (Minor disagreement)
 
 ### Evidence FOR Lower Scoring (Model's View — STRONGER):
 
@@ -152,7 +152,7 @@
 | Como's attack | Can score when needed |
 | Lecce's defensive gaps | AFCON absences weaken backline |
 
-**VERDICT:** Model's 2.00 is more accurate. **Under 2.5 is the VALUE PLAY.**
+**VERDICT:** Model's 2.00 aligns closely with market's 2.25. **Under 2.25 @ 1.85** has slight value given the statistical mismatch, but gap is minor.
 
 ---
 
@@ -206,25 +206,23 @@ Como should still win, but market is cautious on margin.
    due to recent losses, but Como should still win given Lecce's
    0 goals vs them historically
 
-3. Totals verdict: MARKET WRONG — Under 2.5 is undervalued; Lecce
-   have worst attack in Serie A (11 goals), Como have 2nd-best defense
-   (12 conceded), Lecce have 0 goals vs Como, and 6/7 Lecce games
-   had Under 2.5
+3. Totals verdict: CLOSE TO FAIR — Market's 2.25 line is close to
+   model's 2.00; Under 2.25 @ 1.85 has slight value given Lecce's
+   worst attack (11 goals) + Como's elite defense (12 conceded)
 
 4. Discipline risk: MEDIUM — Marchetti averages 3.9 yellows but
    no elevated red card risk identified
 
 5. CMP Verdict: CONSISTENT — Market correctly cautious on Como's form
 
-6. Combined decision: BET (on Under 2.5)
+6. Combined decision: REDUCE (slight value on Under 2.25)
 
-7. Best bet (1.80-2.20): Under 2.5 @ ~1.90
+7. Best bet (1.80-2.20): Under 2.25 @ 1.85
    (Lecce's 0.69 goals/game + Como's elite defense + 0 goals in H2H)
 
 8. One-line justification: Lecce's worst attack in Serie A (11 goals)
    + Como's 2nd-best defense (12 conceded) + Lecce's 0 goals vs Como
-   in Serie A history + 6/7 Lecce games Under 2.5 makes the market's
-   2.5 line too high; Under is the clear value play
+   in Serie A history makes Under 2.25 @ 1.85 a slight value play
 ```
 
 **Confidence:** MEDIUM-HIGH
@@ -235,7 +233,7 @@ Como should still win, but market is cautious on margin.
 
 ## REASONING
 
-The +0.50 Totals gap is **NOT justified** by evidence:
+The +0.25 Totals gap is **mostly justified** but Under still has slight edge:
 
 1. **Confirmed fact:** Lecce have worst attack in Serie A (11 goals in 16 games)
 2. **Confirmed fact:** Como have 2nd-best defense (12 goals conceded)
@@ -243,7 +241,7 @@ The +0.50 Totals gap is **NOT justified** by evidence:
 4. **Confirmed fact:** 6 of Lecce's last 7 games had Under 2.5
 5. **Confirmed fact:** Lecce missing 4 key starters (3 AFCON + Berisha)
 
-The market's 2.5 line appears too high. Under 2.5 is the value play.
+The market's 2.25 line is close to fair. Under 2.25 @ 1.85 has slight value.
 
 ---
 
@@ -251,11 +249,11 @@ The market's 2.5 line appears too high. Under 2.5 is the value play.
 
 | Bet | Odds | Verdict |
 |-----|------|---------|
-| **Under 2.5** | ~1.90 | **VALUE BET** — Strong statistical support |
+| **Under 2.25** | 1.85 | **SLIGHT VALUE** — Statistical support, minor gap |
 | Como ML | 1.79 | Reasonable but just outside 1.80-2.20 range |
 | Como -0.75 | ~2.00 | Risky given Como's 2-game losing streak |
 
-**Primary Recommendation:** Under 2.5 @ ~1.90
+**Primary Recommendation:** Under 2.25 @ 1.85
 
 ---
 

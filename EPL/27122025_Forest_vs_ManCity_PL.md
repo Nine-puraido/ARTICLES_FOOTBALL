@@ -13,7 +13,7 @@
 | Metric | Model | Market | Gap |
 |--------|-------|--------|-----|
 | **Asian Handicap** | +2.00 (City favored) | +1.00 (implied) | **-1.00** |
-| **Total Goals** | 3.50 | O/U 2.5 | **-1.00** |
+| **Total Goals** | 3.50 | O/U 2.75 (O: 1.83 / U: 2.05) | **-0.75** |
 
 **1X2 Odds:** 5.38 / 4.39 / 1.57
 
@@ -22,7 +22,7 @@
 ## GAP INTERPRETATION
 
 - **AH Gap (-1.00):** SIGNIFICANT - Market is a full goal softer on City
-- **Total Gap (-1.00):** SIGNIFICANT - Market expects 1 goal fewer than model
+- **Total Gap (-0.75):** SIGNIFICANT - Market expects fewer goals than model
 
 **Classification:** This is **Case A** from joint market logic:
 - Market SOFTER on AH
@@ -193,7 +193,8 @@ Today's implied AH of +1.0 for Forest is **within the normal range** for how Cit
 ## TOTALS ANALYSIS
 
 **Model expects:** 3.50 goals
-**Market offers:** O/U 2.5
+**Market offers:** O/U 2.75 (O: 1.83 / U: 2.05)
+**Gap:** -0.75 (SIGNIFICANT)
 
 ### Evidence FOR Lower Scoring (Market's View):
 
@@ -216,7 +217,7 @@ Today's implied AH of +1.0 for Forest is **within the normal range** for how Cit
 
 ### VERDICT: Market is pricing **TEMPO REDUCTION + CONTROLLED WIN**
 
-The Dyche defensive transformation is documented. Forest will cede possession (40%) but remain compact. City likely score 1-2, not 3+.
+The Dyche defensive transformation is documented. Forest will cede possession (40%) but remain compact. City likely score 1-2, not 3+. **Under 2.75 @ 2.05** offers slight value given the -0.75 gap and Dyche's defensive impact.
 
 ---
 
@@ -272,7 +273,8 @@ This is **Case A: Softer AH + Lower Totals**
    Villa, Newcastle) justifies softer line
 
 3. Totals verdict: MARKET RIGHT - Dyche's 40% possession setup +
-   Chris Wood out + H2H pattern (1-0, 2-0) supports lower totals
+   Chris Wood out + H2H pattern (1-0, 2-0) supports O/U 2.75;
+   Under 2.75 @ 2.05 has slight value
 
 4. Discipline risk: MEDIUM - Robert Jones averages 4.0 yellows/match,
    Forest physical under Dyche, but not regime-changing
@@ -280,9 +282,10 @@ This is **Case A: Softer AH + Lower Totals**
 5. CMP Verdict: CONSISTENT - City priced similarly in other away
    games vs organized opponents
 
-6. Combined decision: SKIP
+6. Combined decision: REDUCE (slight value on Under)
 
-7. Best bet (1.80-2.20): None - no value identified
+7. Best bet (1.80-2.20): Under 2.75 @ 2.05 — Dyche's defensive
+   transformation + Chris Wood out + H2H pattern supports lower scoring
 
 8. One-line justification: Sean Dyche's documented defensive
    transformation (40% possession, compact block) + Rodri doubtful
@@ -298,7 +301,7 @@ This is **Case A: Softer AH + Lower Totals**
 
 ## REASONING
 
-The -1.00 gap on BOTH AH and Totals is fully explained by:
+The -1.00 AH gap and -0.75 Totals gap are fully explained by:
 
 1. **Confirmed fact:** Forest 1-0 City at City Ground in March 2025
 2. **Confirmed fact:** Sean Dyche appointed Oct 21, possession dropped from 55% to 40%
@@ -311,15 +314,15 @@ The model treats this as "average City vs average Forest." The market prices **t
 
 **Market is NOT baiting. Market is managing risk correctly.**
 
-Any bet on City -1.5 or higher, or Over 2.5, requires City to dominate in a way that did NOT happen in March 2025 and is less likely without Rodri.
+Any bet on City -1.5 or higher, or Over 2.75, requires City to dominate in a way that did NOT happen in March 2025 and is less likely without Rodri. **Under 2.75 @ 2.05** offers slight value given Dyche's documented impact.
 
 ---
 
 ## BASELINE RULE APPLIED
 
-> No strong evidence found that market is mispricing.
+> Totals gap of -0.75 suggests slight value on Under 2.75 @ 2.05.
 > Market is managing risk → controlled City win, no margin explosion.
-> **Recommendation: Trust market, SKIP**
+> **Recommendation: REDUCE — slight value on Under 2.75 @ 2.05**
 
 ---
 

@@ -13,7 +13,7 @@
 | Metric | Model | Market | Gap |
 |--------|-------|--------|-----|
 | **Asian Handicap** | +0.25 (Cagliari favored) | -0.75 (Torino favored) | **-1.00** |
-| **Total Goals** | 3.00 | O/U 2.5 | **-0.50** |
+| **Total Goals** | 3.00 | O/U 2.25 (O: 1.95 / U: 1.89) | **-0.75** |
 
 **1X2 Odds:** 1.92 / 3.33 / 4.30
 
@@ -22,7 +22,7 @@
 ## GAP INTERPRETATION
 
 - **AH Gap (-1.00):** SIGNIFICANT - Model favors away team, market strongly favors home team
-- **Total Gap (-0.50):** SIGNIFICANT - Market expects lower scoring
+- **Total Gap (-0.75):** SIGNIFICANT - Market expects lower scoring
 
 **Classification:** **MODEL ERROR CASE**
 - Model favors Cagliari (away) at +0.25
@@ -157,8 +157,8 @@ The model's +0.25 for Cagliari appears based on:
 ## TOTALS ANALYSIS
 
 **Model expects:** 3.00 goals
-**Market offers:** O/U 2.5
-**Gap:** -0.50 (SIGNIFICANT)
+**Market offers:** O/U 2.25 (O: 1.95 / U: 1.89)
+**Gap:** -0.75 (SIGNIFICANT)
 
 ### Evidence FOR Lower Scoring:
 
@@ -176,7 +176,7 @@ The model's +0.25 for Cagliari appears based on:
 | Torino defense | 3rd worst in Serie A (26 conceded) |
 | H2H average | 2.59 goals per match historically |
 
-**VERDICT:** Market correctly prices Under 2.5. Cagliari's attacking absences + Torino's tight wins = low-scoring.
+**VERDICT:** Market's 2.25 line is aggressive but justified. Cagliari's attacking absences + Torino's 1-0 pattern = low-scoring expectation. **Under 2.25 @ 1.89** aligns with evidence.
 
 ---
 
@@ -221,8 +221,8 @@ The -1.00 gap is fully explained by current form and injuries that the model fai
 2. AH verdict: MARKET RIGHT — Model appears flawed; Cagliari's current
    form, away record, and injuries fully justify Torino as favorites
 
-3. Totals verdict: MARKET RIGHT — Under 2.5 correctly priced given
-   Cagliari's missing attackers and Torino's tight 1-0 wins
+3. Totals verdict: MARKET RIGHT — Under 2.25 correctly priced given
+   Cagliari's missing attackers and Torino's 1-0 pattern
 
 4. Discipline risk: LOW-MEDIUM — Doveri is experienced, neither team
    excessively physical
@@ -231,7 +231,7 @@ The -1.00 gap is fully explained by current form and injuries that the model fai
 
 6. Combined decision: REDUCE (on -0.75 AH) / BET (on Torino ML or Under)
 
-7. Best bet (1.80-2.20): Torino ML @ 1.92 OR Under 2.5 @ ~1.85
+7. Best bet (1.80-2.20): Torino ML @ 1.92 OR Under 2.25 @ 1.89
    (Torino's 1-0 pattern + Cagliari's missing attackers)
 
 8. One-line justification: Cagliari's 0 wins in 7 away + missing
@@ -260,7 +260,7 @@ The market correctly prices Torino as heavy favorites. The model's Cagliari lean
 
 **Bet Recommendation:**
 - **Torino ML @ 1.92** — Best value (within 1.80-2.20 range)
-- **Under 2.5** — Strong case given Cagliari's missing attackers
+- **Under 2.25 @ 1.89** — Strong case given Cagliari's missing attackers + Torino's 1-0 pattern
 - **Avoid Torino -0.75 AH** — Both recent wins were 1-0; margin risk exists
 
 ---

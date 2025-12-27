@@ -13,7 +13,7 @@
 | Metric | Model | Market | Gap |
 |--------|-------|--------|-----|
 | **Asian Handicap** | -0.25 (Parma favored) | +0.25 (Fiorentina favored) | **+0.50** |
-| **Total Goals** | 2.50 | O/U 2.5 | **0.00** |
+| **Total Goals** | 2.50 | O/U 2.25 (O: 1.90 / U: 1.96) | **-0.25** |
 
 **1X2 Odds:** 3.32 / 3.10 / 2.32
 
@@ -22,7 +22,7 @@
 ## GAP INTERPRETATION
 
 - **AH Gap (+0.50):** SIGNIFICANT - Model favors home team, market favors away team
-- **Total Gap (0.00):** Agreement on totals
+- **Total Gap (-0.25):** Minor disagreement - Market slightly lower
 
 **Classification:** **ANOMALOUS CASE**
 - Model says Parma (home) slight favorite
@@ -172,8 +172,8 @@
 ## TOTALS ANALYSIS
 
 **Model expects:** 2.50 goals
-**Market offers:** O/U 2.5
-**Gap:** 0.00 (Agreement)
+**Market offers:** O/U 2.25 (O: 1.90 / U: 1.96)
+**Gap:** -0.25 (Minor disagreement)
 
 ### Evidence FOR Lower Scoring:
 
@@ -191,7 +191,7 @@
 | Fiorentina defense | Joint-worst in Serie A (27 conceded) |
 | Moise Kean | Top scorer capability |
 
-**VERDICT:** Market correctly priced at O/U 2.5. H2H strongly supports Under.
+**VERDICT:** Market's 2.25 line is slightly aggressive but justified by H2H. Under 2.25 @ 1.96 has value given last 3 H2H had Under 1.5.
 
 ---
 
@@ -249,7 +249,7 @@ The market appears to be **overreacting** to Fiorentina's 5-1 result while ignor
    5-1 win (vs 10 men) while ignoring 6 straight draws in H2H and
    Fiorentina's 1 away win at Parma in 11 trips since 2020
 
-3. Totals verdict: MARKET RIGHT — O/U 2.5 correctly priced;
+3. Totals verdict: MARKET RIGHT — O/U 2.25 correctly priced;
    H2H shows Under 2.5 in last 4, Under 1.5 in last 3
 
 4. Discipline risk: LOW-MEDIUM — Marco Guida experienced,
@@ -260,8 +260,8 @@ The market appears to be **overreacting** to Fiorentina's 5-1 result while ignor
 
 6. Combined decision: REDUCE (Draw value exists)
 
-7. Best bet (1.80-2.20): Draw @ 3.10 OR Under 2.5 @ ~1.90
-   (H2H strongly supports both)
+7. Best bet (1.80-2.20): Under 2.25 @ 1.96 OR Draw @ 3.10
+   (H2H strongly supports both — Under 1.5 in last 3)
 
 8. One-line justification: 6 straight H2H draws + Fiorentina's
    1 away win at Parma in 11 trips + both teams' attacking
