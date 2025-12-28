@@ -269,3 +269,48 @@ The market's 2.25 line is close to fair. Under 2.25 @ 1.85 has slight value.
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Lecce 0-3 Como
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.25** | @ 1.85 | **LOST** (3 goals) |
+
+### What Happened
+
+- Lecce failed to score as predicted (0 goals) — their worst attack narrative was correct
+- Como scored 3 goals despite missing Morata — their attacking threat was UNDERESTIMATED
+- The 5-0 aggregate H2H pattern continued (Como dominant)
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **One-sided analysis** | Focused too much on Lecce's weakness, not enough on Como's strength |
+| **Missing player impact** | Morata's absence (0 goals in 15 games) was irrelevant — Douvikas and others stepped up |
+| **Under bias** | Assumed low-scoring because of Lecce's attack, but Como could still score freely |
+
+### What I Got Right
+- Lecce wouldn't score (0 goals — correct)
+- Como would win (correct)
+- H2H dominance would continue (correct)
+
+### What I Got Wrong
+- **Total goals** — Expected 2 or fewer, got 3
+- **Como's attacking output** — Underestimated their ability to score multiple goals against depleted Lecce
+
+### Future Application
+
+1. When one team has a terrible attack AND terrible defense (AFCON absences), the FAVORITE can score more freely
+2. Don't assume "Under" just because one team can't score — the other team may exploit weakness
+3. Lopsided matchups (best defense vs worst attack) can produce 3-0, 4-0 scorelines, NOT 1-0, 2-0
+
+---
+
+*Post-match update: December 27, 2025*

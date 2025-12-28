@@ -241,3 +241,59 @@ Both teams are weakened by AFCON. The market correctly prices a tighter game. Ev
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Burnley 0-0 Everton
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.25** | @ 1.88 | **WON** (0 goals) |
+
+### What Happened
+
+- 0-0 draw — lowest possible scoring outcome
+- Under 2.25 won comfortably
+- Both teams' AFCON absences proved decisive
+- Neither team could create quality chances
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **AFCON impact validated** | Both teams missing key players = no goals |
+| **Cagey relegation battle** | As predicted, both teams prioritized not losing |
+| **Attacking crisis confirmed** | Burnley couldn't score, Everton's Ndiaye/Gueye absences showed |
+
+### What I Got Right
+
+- **Total goals** — Under 2.25 was correct (0 goals)
+- **AFCON impact** — Correctly identified both teams' weakened squads
+- **Cagey affair prediction** — Relegation battle produced exactly the tight game expected
+- **Everton's creative void** — Without Ndiaye, they couldn't create
+
+### What I Got Wrong
+
+- **Match winner** — Slight lean to Everton didn't materialize (draw)
+- **Could have been more confident** — Called it SKIP but Under 2.25 had clear value
+
+### Validation
+
+> This was the most straightforward Under bet of the day. Both teams
+> missing AFCON players (Burnley: Foster, Tuanzebe, Mejbri; Everton:
+> Ndiaye, Gueye) + relegation stakes = 0-0 was logical outcome.
+> AFCON absences proved to be reliable indicator for low-scoring games.
+
+### Future Application
+
+1. **AFCON absences on BOTH teams = strong Under indicator** — especially when attacking players affected
+2. **Relegation battles with depleted squads often produce 0-0** — neither can afford to lose
+3. **Should have had higher confidence on Under** — evidence was stronger than I acknowledged
+
+---
+
+*Post-match update: December 27, 2025*

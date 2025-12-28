@@ -303,3 +303,60 @@ Liverpool are WITHOUT their TWO main goalscorers. The model's 3.16 expected goal
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Liverpool 2-1 Wolves
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 3.0** | @ 2.03 | **PUSH** (3 goals exactly) |
+
+### What Happened
+
+- 3 goals total — exactly on the line, resulting in push
+- Liverpool won 2-1 as expected (controlled win)
+- Without Salah/Isak, Liverpool scored exactly 2
+- Wolves actually scored (breaking their terrible form slightly)
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Analysis was directionally correct** | Expected 2-0 or 2-1, got 2-1 |
+| **Attacking absences impact validated** | Liverpool without Salah/Isak scored 2, not 3+ |
+| **Even terrible teams can score** | Wolves got 1 despite 10-game losing streak |
+| **3.0 line was perfectly set** | Market nailed the total |
+
+### What I Got Right
+
+- **Liverpool's goal output** — Predicted 2 goals without Salah/Isak, they scored 2
+- **Controlled win narrative** — 2-1 is exactly the "not a blowout" result expected
+- **Attacking absences matter** — Correctly identified depleted Liverpool attack
+- **Under direction** — Was leaning Under, 3 goals is close to that
+
+### What I Got Wrong
+
+- **Wolves scoring** — Expected them to be completely shut out
+- **Perfect line identification** — 3.0 was exactly right, no edge existed
+
+### Validation
+
+> The analysis was sound. Liverpool WITHOUT Salah and Isak scored 2
+> goals — exactly as predicted. The 2-1 result matches the "controlled
+> 2-0 or 2-1" expectation. Under 3.0 pushed rather than won, but the
+> market had this perfectly priced at 3.0.
+
+### Future Application
+
+1. **Major attacking absences reliably reduce goal output** — Liverpool's 2 goals without Salah/Isak was predictable
+2. **3.0 totals lines are risky** — easy to push, minimal edge either way
+3. **Even 10-game losing streaks don't mean 0 goals** — desperate teams can still score 1
+
+---
+
+*Post-match update: December 27, 2025*

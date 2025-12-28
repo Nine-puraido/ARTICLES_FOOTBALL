@@ -258,3 +258,69 @@ The model treats this as "Fulham vs average opponent." The market prices **this 
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** West Ham 0-1 Fulham
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.5** | @ 2.00 | **WON** (1 goal) |
+
+### What Happened
+
+- 1 goal total — Under 2.5 won comfortably
+- Fulham won 0-1 despite missing 3 AFCON players
+- West Ham's home H2H dominance (7/8 wins) BROKE
+- Model's Fulham lean was actually CORRECT (I called it "MODEL ERROR")
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Called "MODEL ERROR" when model was RIGHT** | Model favored Fulham, Fulham won |
+| **H2H patterns eventually break** | West Ham's 7/8 home wins didn't continue |
+| **AFCON absences don't guarantee team collapses** | Fulham won despite missing Iwobi, Bassey, Chukwueze |
+| **Under call was correct** | Low-scoring (1 goal) as expected from depleted squads |
+
+### What I Got Right
+
+- **Total goals** — Under 2.5 won (only 1 goal)
+- **Fulham's AFCON absences = reduced goals** — Correctly identified attacking reduction
+- **Cagey London derby** — Expected tight affair, got 0-1
+
+### What I Got Wrong
+
+- **Labeled model as "MODEL ERROR"** — Model was actually correct to favor Fulham
+- **Over-relied on H2H pattern** — West Ham's 7/8 home wins was historical, not predictive
+- **Didn't trust model enough** — Should have considered Fulham ML instead of just Under
+
+### Critical Error Analysis
+
+> I dismissed the model's Fulham -1.25 lean as "MODEL ERROR" based on
+> West Ham's H2H dominance. But the model saw something I missed: West Ham
+> are in relegation zone for a reason. Their "home dominance" was historical,
+> not reflective of current squad quality. Fulham, even depleted, were still
+> the better team.
+
+### Validation
+
+> Under 2.5 was correct (1 goal). But I should have recognized that
+> model's Fulham lean had merit. Calling it "MODEL ERROR" was too
+> aggressive — the model correctly identified Fulham as superior despite
+> H2H history.
+
+### Future Application
+
+1. **Don't over-rely on H2H when current form diverges sharply** — West Ham in relegation zone ≠ past dominance
+2. **"MODEL ERROR" label requires overwhelming evidence** — Second time today I was wrong on this call (also Torino/Cagliari)
+3. **AFCON absences reduce goals but don't determine winners** — Fulham won despite missing 3 players
+4. **Under bets can be correct even when result direction is wrong** — Got totals right, AH wrong
+
+---
+
+*Post-match update: December 27, 2025*

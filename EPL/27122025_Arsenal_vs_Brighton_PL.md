@@ -294,3 +294,51 @@ The market has correctly priced this match. Arsenal's home dominance + Brighton'
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Arsenal 2-1 Brighton
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **SKIP** | N/A | **CORRECT DECISION** |
+
+### What Happened
+
+- Arsenal won 2-1 — comfortable home win as expected
+- Total goals: 3 — would have pushed Over 2.5, lost Under 2.5
+- Arsenal covered -1.50 AH (won by 1 goal = half-loss on -1.50)
+- Rice was NOT sent off this time — breaking the pattern
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **SKIP was correct** | No value identified, market was fairly priced |
+| **Totals uncertainty** | 3 goals landed right in the middle (2.5-3.0 range) |
+| **Historical patterns don't always repeat** | Rice avoided red card despite H2H pattern |
+
+### What I Got Right
+
+- **Match winner** — Arsenal won as expected
+- **No value call** — SKIP was correct, neither side had clear edge
+- **Brighton's attacking struggles** — They scored only 1 (consistent with crisis form)
+
+### What I Got Wrong
+
+- **Rice red card concern** — Pattern broke, Rice avoided dismissal
+- Could have backed Over 2.5 if pushed, but SKIP was still correct
+
+### Validation
+
+> SKIP was the right call. Market was fairly priced at -1.50 AH and
+> O/U 2.5. Arsenal won 2-1 which is exactly the controlled result
+> both model and market expected. No edge existed.
+
+---
+
+*Post-match update: December 27, 2025*

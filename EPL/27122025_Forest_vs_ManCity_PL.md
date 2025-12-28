@@ -340,3 +340,64 @@ Any bet on City -1.5 or higher, or Over 2.75, requires City to dominate in a way
 ---
 
 *Report updated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Nottingham Forest 1-2 Manchester City
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.75** | @ 2.05 | **LOST** (3 goals — exactly on the line) |
+
+### What Happened
+
+- 3 goals total — landed exactly on 2.75 (Over wins on Asian line)
+- City won 2-1 as expected (controlled win)
+- Forest scored (Dyche's defensive setup wasn't perfect)
+- Rodri status was key — if he played, this analysis would change
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Margin of error** | Lost by exactly 0.25 goals — very close call |
+| **Both teams scored** | Forest's defensive improvement wasn't enough to keep clean sheet |
+| **City's quality** | Even depleted City can score 2 away |
+
+### What I Got Right
+- **Match winner** — City won as expected
+- **Controlled win narrative** — 2-1 is a controlled margin, not a blowout
+- **Dyche defensive impact** — Forest did limit City (only 2 goals)
+
+### What I Got Wrong
+- **Total goals** — 3 instead of Under 2.75
+- **Forest scoring** — Didn't expect Forest to find the net
+
+### Close Call Analysis
+
+| If Line Was... | Result |
+|----------------|--------|
+| Under 3.0 | **PUSH** (3 goals) |
+| Under 2.5 | **LOST** |
+| Under 2.75 | **LOST** (but close) |
+
+### Future Application
+
+1. **2.75 lines are risky** — Easy to lose by one goal either way
+2. **Dyche effect is real but not absolute** — Forest conceded 2 but also scored 1
+3. **City away still dangerous** — Even without Rodri, they can score 2
+4. **Consider BTTS markets** — When defensive team can counter, both teams scoring is likely
+
+### Note on Line Selection
+
+> Under 2.75 was borderline. The 3-goal result shows the market's
+> 2.75 line was accurately set. No edge existed — this was a coin flip
+> that I lost by the smallest margin.
+
+---
+
+*Post-match update: December 27, 2025*

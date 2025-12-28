@@ -278,3 +278,65 @@ The market correctly prices Torino as heavy favorites. The model's Cagliari lean
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Torino 1-2 Cagliari
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Torino ML** | @ 1.92 | **LOST** (Cagliari won) |
+| **Under 2.25** | @ 1.89 | **LOST** (3 goals) |
+
+### Critical Error: I Dismissed the Model When It Was RIGHT
+
+| My Assessment | Reality |
+|---------------|---------|
+| Called it "MODEL ERROR" | **MODEL WAS CORRECT** |
+| Said model was "flawed" | Model correctly favored Cagliari +0.25 |
+| Backed Torino ML | Cagliari won 2-1 |
+
+### What Happened
+
+- Cagliari won despite "1 win in 13" and "0 wins in 7 away"
+- Cagliari won despite "missing entire frontline" (Luvumbo, Belotti, Felici)
+- Torino's "2 straight 1-0 wins" pattern broke
+- The MODEL saw something I dismissed
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Form is not destiny** | "1 win in 13" doesn't mean win #2 can't happen |
+| **Over-confidence in dismissing model** | I was too aggressive calling it a "MODEL ERROR" |
+| **Narrative over numbers** | I built a story around Cagliari's poor form and ignored model signals |
+| **Injury impact overestimated** | Cagliari's "missing attackers" still produced 2 goals |
+
+### What I Got Right
+- Nothing significant — this was my worst analysis of the day
+
+### What I Got Wrong
+- **Match winner** — Backed Torino, Cagliari won
+- **Totals** — Expected Under 2.25, got 3 goals
+- **Model assessment** — Called it wrong when it was right
+
+### Future Application
+
+1. **NEVER call "MODEL ERROR" without stronger evidence** — the model had data I didn't see
+2. **Bad form can end at any time** — "1 win in 13" means they CAN win
+3. **Market respected Cagliari more than I did** — the -1.00 AH gap was the market CORRECTLY seeing value in away team
+4. **Humility required** — When model and market disagree with my assessment, reconsider
+
+### Critical Note for Future
+
+> When I label something "MODEL ERROR," I must have OVERWHELMING evidence.
+> In this case, the model's Cagliari lean was based on underlying metrics
+> that outweighed recent form. I was wrong to dismiss it.
+
+---
+
+*Post-match update: December 27, 2025*

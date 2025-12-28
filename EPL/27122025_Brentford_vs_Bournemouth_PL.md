@@ -259,3 +259,60 @@ Brentford should win given dominant H2H, but both teams' absences and Bournemout
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Brentford 4-1 Bournemouth
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.75** | @ 1.96 | **LOST** (5 goals) |
+
+### What Happened
+
+- 5 goals total — Under 2.75 lost badly
+- Brentford dominated as expected (4-1)
+- Bournemouth's defensive crisis fully exposed
+- H2H dominance pattern confirmed (Brentford unbeaten since 2014)
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Dominant H2H can mean MORE goals, not fewer** | Brentford's dominance manifested as attacking freedom |
+| **"Under" bias was wrong** | Expected controlled win, got blowout |
+| **Crisis teams can collapse completely** | Bournemouth's 8-game winless run ended in defensive shambles |
+| **AFCON absences cut both ways** | Brentford still scored 4 despite missing players |
+
+### What I Got Right
+
+- **Match winner** — Brentford won comfortably
+- **H2H dominance** — Brentford continued unbeaten run vs Bournemouth
+- **Bournemouth crisis** — They conceded 4 goals (defensive issues confirmed)
+
+### What I Got Wrong
+
+- **Total goals** — Expected Under 2.75, got 5 goals
+- **"Controlled win" assumption** — Brentford attacked freely, didn't manage game
+- **Underestimated Brentford's attacking** — Lewis-Potter form + home advantage = goals
+
+### Critical Error Analysis
+
+> I focused on "controlled win" narrative but Brentford's H2H dominance
+> meant they could attack freely without fear of counter. Bournemouth's
+> 8-game winless run wasn't about cagey draws — it was about capitulation.
+> Their 28 goals conceded (worst in top 16) should have signaled Over, not Under.
+
+### Future Application
+
+1. **When favorite has massive H2H dominance + opponent in defensive crisis, consider Over** — dominance enables attacking freedom
+2. **"Winless streak" can mean different things** — draws vs losses have different implications
+3. **Don't assume card-heavy referee = low scoring** — Bankes didn't slow this game down
+
+---
+
+*Post-match update: December 27, 2025*

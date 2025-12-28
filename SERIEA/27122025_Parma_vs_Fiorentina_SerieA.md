@@ -312,3 +312,56 @@ The model treats this as home advantage for Parma. The market overweights Fioren
 ---
 
 *Report generated: December 27, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Parma 1-0 Fiorentina
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.25** | @ 1.96 | **WON** (1 goal) |
+| **Draw** | @ 3.10 | **LOST** (Parma won) |
+
+### What Happened
+
+- Only 1 goal scored — Under 2.25 was correct
+- The 6 straight draws pattern BROKE — Parma won
+- Fiorentina (bottom of table, away favorite) lost
+- Market's Fiorentina lean was WRONG
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Totals analysis was correct** | H2H low-scoring pattern (Under 1.5 in last 3) continued |
+| **Draw pattern broke** | 6 straight draws ended — patterns eventually break |
+| **Market anomaly confirmed** | Bottom-of-table team priced as away favorite was indeed BAIT |
+
+### What I Got Right
+- **Under 2.25** — Correctly identified low-scoring H2H pattern
+- **Fiorentina skepticism** — Noted their 5-1 win was vs 10-man Udinese (misleading)
+- **Anomaly identification** — Called the Fiorentina away favorite pricing suspicious
+
+### What I Got Wrong
+- **Draw recommendation** — The 6-draw pattern broke
+- **No clear winner prediction** — Could have backed Parma given Fiorentina's issues
+
+### Future Application
+
+1. **H2H patterns for totals are more reliable than for results** — Low-scoring pattern held even when draw pattern broke
+2. **When bottom team is priced as away favorite, be skeptical** — This was indeed market overreaction to one result
+3. **Don't over-rely on streak patterns** — 6 straight draws had to end eventually
+
+### Validation
+
+> My skepticism about Fiorentina as away favorites was CORRECT.
+> The 5-1 win vs 10-man Udinese was misleading context.
+> Parma's home struggles were overweighted by the market.
+
+---
+
+*Post-match update: December 27, 2025*
