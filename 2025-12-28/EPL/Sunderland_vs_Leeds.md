@@ -215,3 +215,75 @@ The +0.50 AH gap and -1.00 Totals gap are **fully explained** by AFCON absences 
 ---
 
 *Report generated: December 28, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Sunderland 1-1 Leeds United
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.0** | @ 2.12 | **PUSH** (2 goals exactly = refund) |
+| **AH Pick'em** | — | **PUSH** (draw) |
+
+### Assessment: Analysis Was Directionally Correct
+
+| My Assessment | Reality |
+|---------------|---------|
+| Predicted low-scoring affair | 1-1 = 2 goals (correct direction) |
+| Identified AFCON absences as key factor | Sunderland's depleted squad struggled to kill game |
+| Said market was right on pick'em | Draw confirmed market's pricing |
+| Best bet: Under 2.0 @ 2.12 | Push — unlucky, needed 0-1 total |
+
+### What Happened
+
+- **Simon Adingra** scored for Sunderland (28') — curling finish from Xhaka through ball
+- **Dominic Calvert-Lewin** equalized for Leeds (47') — 6th straight game scoring
+- Sunderland couldn't hold lead despite home advantage
+- Leeds' terrible away form (W1-D1-L6) got slightly better (W1-D2-L6)
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Under 2.0 was correct direction but tight line** | 2 goals = push; Under 2.5 would have won |
+| **AFCON impact validated** | Sunderland's weakened squad couldn't close out |
+| **Pick'em was perfect pricing** | Neither team deserved to win |
+| **Calvert-Lewin form is real** | 6 straight goals — should have noted this more |
+
+### What I Got Right
+- **Low-scoring prediction** — 2 goals validates the thesis
+- **AFCON impact on Sunderland** — they looked depleted
+- **Leeds H2H unbeaten pattern** — extended to W1-D3
+- **Market assessment** — pick'em and low totals were correct
+
+### What I Got Wrong
+- **Line selection** — Under 2.0 was too tight; Under 2.5 @ lower odds would have won
+- **Underweighted Calvert-Lewin** — should have noted his 5-game scoring streak
+
+### Future Application
+
+1. **When Under is the thesis, prefer Under 2.5 over Under 2.0 for safety margin**
+2. **Individual player form (6 straight goals) is a real factor worth pricing**
+3. **AFCON absences work — Sunderland's 6 missing players did hurt them**
+4. **Draws happen when market says pick'em — trust it**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Under 2.0 @ 2.12 | 1u | PUSH | 0 |
+
+### Critical Note for Future
+
+> Under 2.0 was the right side but the wrong line. When the thesis is
+> "low-scoring," accept slightly worse odds for Under 2.5 to avoid pushes.
+> The analysis was sound — both teams were depleted, Leeds are terrible away,
+> Sunderland's AFCON losses hurt. Just needed one fewer goal.
+
+---
+
+*Post-match update: December 29, 2025*

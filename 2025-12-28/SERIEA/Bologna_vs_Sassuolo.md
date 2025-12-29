@@ -210,3 +210,77 @@ The +0.50 AH gap is explained by Bologna's current struggles and derby dynamics.
 ---
 
 *Report generated: December 28, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Bologna 1-1 Sassuolo
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Bologna ML** | @ 1.85 | **LOST** (draw) |
+| **Bologna -0.75 AH** | (implied) | **LOST** |
+| **Under 2.5** | @ 1.80 | **WON** (2 goals) |
+
+### Assessment: Derby Unpredictability Proved Correct
+
+| My Assessment | Reality |
+|---------------|---------|
+| Said "SKIP" or "slight Under lean" | SKIP was correct for AH/ML |
+| Confidence: LOW-MEDIUM | Result validates low confidence |
+| Said market was right to price -0.75 (not -1.25) | Draw = even -0.75 lost |
+| Noted "derby unpredictability" | Derby tension = draw |
+
+### What Happened
+
+- Bologna's **winless run extended to 4 Serie A games**
+- Sassuolo got a valuable away point in the derby
+- The "4 H2H unbeaten" for Bologna became "W2-D3" — still unbeaten but draw pattern emerging
+- Both teams' poor form = stalemate
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **SKIP was the right call** | No clear edge; draw killed ML bets |
+| **Derby dynamics validated** | Predicted "cagey affair" — 1-1 confirms |
+| **Bologna's form dip was real** | Now 4 winless; model's -1.25 was way off |
+| **Under 2.5 worked** | 2 goals = comfortable win on totals |
+
+### What I Got Right
+- **Low confidence was appropriate** — result was unpredictable
+- **Market softer than model** — correctly assessed Bologna's issues
+- **Derby tension = lower margin** — -0.75 was still too aggressive
+- **Under 2.5 lean** — 2 goals validates low-scoring thesis
+
+### What I Got Wrong
+- **Bologna ML @ 1.85 as "best bet"** — should NOT have listed this
+- **Underweighted Bologna's winless streak** — now 4 games
+
+### Future Application
+
+1. **When SKIP is the main call, don't add a "best bet" anyway**
+2. **Derbies trend toward draws** — even 4 H2H unbeaten doesn't mean wins
+3. **Winless runs (3+) should be weighted heavily** — form trumps H2H
+4. **Totals bets can work when match winner is uncertain**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Under 2.5 @ 1.80 | REDUCE (0.5u) | WON | +0.40u |
+| Bologna ML @ 1.85 | — | Not taken (SKIP) | 0 |
+
+### Critical Note for Future
+
+> SKIP was the right call — I should have trusted it fully instead of
+> listing Bologna ML as a "best bet." When confidence is LOW-MEDIUM
+> and the main call is SKIP, don't hedge by suggesting bets anyway.
+> The Under 2.5 was the only safe play here.
+
+---
+
+*Post-match update: December 29, 2025*

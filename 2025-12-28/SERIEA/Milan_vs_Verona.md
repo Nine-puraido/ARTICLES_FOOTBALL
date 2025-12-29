@@ -213,3 +213,70 @@ Verona's recent wins (including 3-1 at Atalanta) suggest they're not as weak as 
 ---
 
 *Report generated: December 28, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** AC Milan 3-0 Hellas Verona
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Milan -1.50 AH** | (implied) | **WON** (covered by 1.5 goals) |
+| **Under 2.5** | @ 1.90 | **LOST** (3 goals) |
+| **My call: SKIP** | — | **WRONG** — missed value on Milan |
+
+### Critical Error: I Was Too Cautious Due to Verona's Recent Form
+
+| My Assessment | Reality |
+|---------------|---------|
+| Called it "SKIP" due to Verona's back-to-back wins | Milan dominated 3-0 |
+| Said market "may be over-aggressive" on -1.50 | Market was RIGHT — -1.50 covered |
+| Worried about Leao being doubtful | Milan didn't need him at full strength |
+| Gave weight to Verona's wins vs Atalanta/Fiorentina | H2H dominance prevailed completely |
+
+### What Happened
+
+- Milan's **9-game H2H winning streak** extended to **10**
+- Verona's "back-to-back wins" meant nothing at San Siro
+- The **0 wins in 38 San Siro visits** pattern held — now 0 in 39
+- 3-0 margin = market's aggressive -1.50 line was spot on
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **H2H dominance trumps form** | Verona's 2 wins vs other teams didn't translate to San Siro |
+| **Historical venue patterns matter** | 0 wins in 38 visits is not random noise |
+| **"SKIP" was wrong** | When one team has NEVER won at a venue in 38 attempts, that's a signal |
+| **Recent form overweighted** | I gave too much credit to Verona's wins vs Atalanta/Fiorentina |
+
+### What I Got Right
+- Identified the H2H dominance (9 straight Milan wins)
+- Noted Verona's 0 wins in 38 San Siro visits
+- Recognized market was MORE aggressive than model
+
+### What I Got Wrong
+- **Main bet decision** — SKIP was incorrect; Milan -1.50 or ML was the play
+- **Verona form assessment** — Overweighted their 2 recent wins
+- **Confidence level** — LOW was too cautious given extreme H2H pattern
+
+### Future Application
+
+1. **When H2H dominance is this extreme (9+ straight wins), lean INTO it, not away**
+2. **Venue-specific patterns (0 wins in 38 visits) should override short-term form**
+3. **"Back-to-back wins" for an underdog doesn't reset psychological disadvantage**
+4. **When in doubt between SKIP and backing the dominant H2H team, back the team**
+
+### Critical Note for Future
+
+> When a team has NEVER won at a venue in 38+ visits, this is a structural
+> disadvantage, not a streak waiting to be broken. The market was right
+> to price Milan -1.50 aggressively. I should have trusted the H2H data
+> over Verona's 2-game winning streak.
+
+---
+
+*Post-match update: December 29, 2025*

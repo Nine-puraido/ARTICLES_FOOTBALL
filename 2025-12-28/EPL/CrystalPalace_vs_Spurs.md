@@ -210,3 +210,77 @@ Palace as slight favorites is fully justified by Spurs' crisis.
 ---
 
 *Report generated: December 28, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Crystal Palace 0-1 Tottenham Hotspur
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Palace -0.25 AH** | — | **LOST** (Spurs won) |
+| **Under 2.5** | @ 1.86 | **WON** (1 goal) |
+| **Palace ML** | @ 2.22 | **LOST** |
+
+### Critical Error: Spurs Won Despite "Crisis Mode"
+
+| My Assessment | Reality |
+|---------------|---------|
+| Spurs in "CRISIS MODE" with 8 key absences | Won 1-0 away |
+| Palace slight favorites (-0.25) | Lost at home |
+| Said Spurs "1 win in 8 PL matches" | Made it 2 wins in 9 |
+| Said Spurs "lost 5 of 5 away" | Broke the streak |
+| Under 2.5 slight lean | **CORRECT** — 1 goal total |
+
+### What Happened
+
+- **Richarlison** scored the winner and was MOTM (goal + assist, 2nd goal disallowed by VAR)
+- Spurs won despite missing Simons, Romero (suspended), Bissouma, Sarr (AFCON), Maddison, Solanke, Kulusevski, Udogie (injured)
+- Palace's 2 straight defeats extended to 3
+- VAR disallowed a 2nd Richarlison goal
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **Injury/absence lists don't guarantee losses** | Spurs had 8 players out but still won |
+| **Under 2.5 was the right call** | 1 goal total — thesis was correct |
+| **"Crisis" narratives can be overdone** | Market priced Spurs as underdogs but they found a way |
+| **H2H recent form (Palace double) didn't repeat** | Past seasons don't bind current results |
+
+### What I Got Right
+- **Under 2.5 bet** — 1 goal = comfortable win
+- **Low-scoring prediction** — recent H2H (2-0, 1-0) pattern held
+- **Identified Spurs' crisis** — they were weakened, just not enough
+
+### What I Got Wrong
+- **Match winner** — Backed Palace as favorites; Spurs won
+- **Assumed absences = inability to compete** — Spurs proved otherwise
+- **Overweighted Palace's recent H2H wins** — last season's double didn't matter
+
+### Future Application
+
+1. **Absence lists are context, not destiny** — teams can adapt
+2. **Under bets can work even when match winner is wrong** — separate thesis
+3. **"Crisis mode" teams sometimes rally** — pressure can motivate
+4. **H2H from previous seasons has limited predictive power**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Under 2.5 @ 1.86 | REDUCE (0.5u) | WON | +0.43u |
+
+### Critical Note for Future
+
+> The Under 2.5 thesis was correct — both teams depleted, recent H2H
+> low-scoring. But I was wrong to favor Palace. Spurs' "crisis" was
+> overblown; they found a way to win 1-0 away. Lesson: When backing
+> Unders, don't compound with match winner unless conviction is high.
+
+---
+
+*Post-match update: December 29, 2025*

@@ -235,3 +235,91 @@ Is Inter's 8-game H2H dominance + table position enough to overcome:
 
 *Report generated: December 28, 2025*
 *Updated: Corrected market AH from pick'em to Inter -0.50; revised recommendations accordingly*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Atalanta 0-1 Inter Milan
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Inter -0.50 AH** | @ ~1.95 | **WON** (Inter won by 1) |
+| **Over 2.5** | @ ~1.85 | **LOST** (only 1 goal) |
+| **Inter ML** | — | **WON** |
+
+### Assessment: H2H Dominance Thesis Proved Correct
+
+| My Assessment | Reality |
+|---------------|---------|
+| Said "BET on Inter -0.50" | **CORRECT** — Inter won 1-0 |
+| Said "REDUCE on Over 2.5" | Wrong — only 1 goal |
+| Noted Inter's 8-game H2H winning streak | Extended to **9 straight wins** |
+| Noted Inter's 4 consecutive clean sheets vs Atalanta | Extended to **5 straight** |
+| Said "Market may be under-pricing Inter" | Market was exactly right on -0.50 |
+
+### What Happened
+
+- **Lautaro Martinez** scored the only goal
+- Inter's **H2H dominance continued** — now 9 straight wins over Atalanta
+- Inter's **clean sheet streak vs Atalanta** — now 5 in a row
+- Lookman's AFCON absence hurt Atalanta badly
+- Inter regained top of the table
+
+### Key Lessons
+
+| Issue | Learning |
+|-------|----------|
+| **H2H dominance is REAL** | 9 straight wins, 5 clean sheets — not random |
+| **-0.50 was the right line** | 1-0 = covered exactly |
+| **Over was wrong** | Inter's clean sheet pattern continued |
+| **Psychological advantage matters** | Atalanta haven't beaten Inter since 2018 |
+
+### What I Got Right
+- **Main bet: Inter -0.50** — covered exactly
+- **H2H analysis** — 8 straight became 9; pattern is structural
+- **Clean sheet pattern** — 4 became 5; Atalanta can't score vs Inter
+- **Lookman absence impact** — Atalanta toothless without him
+- **Model had merit** — Inter's dominance warranted aggressive line
+
+### What I Got Wrong
+- **Over 2.5 secondary bet** — should have recognized clean sheet pattern
+- **Expected Inter to score 2+** — they only needed 1
+- **Defensive injuries impact** — overestimated; Inter kept clean sheet anyway
+
+### Future Application
+
+1. **When H2H dominance is 8+ straight wins, lean INTO the pattern**
+2. **Clean sheet patterns (4+ consecutive) suggest Under, not Over**
+3. **Psychological blocks are real** — Atalanta haven't beaten Inter in 6+ years
+4. **-0.50 AH is safer than Over when one team dominates H2H**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Inter -0.50 @ 1.95 | 1u | WON | +0.95u |
+| Over 2.5 @ 1.85 | REDUCE (0.5u) | LOST | -0.50u |
+| **NET** | | | **+0.45u** |
+
+### Critical Note for Future
+
+> The Inter -0.50 bet was correct — H2H dominance (now 9 straight wins)
+> and clean sheet pattern (now 5 consecutive) are structural, not flukes.
+> The Over 2.5 was a mistake; Inter's clean sheet record vs Atalanta
+> should have pointed to Under, not Over. When one team consistently
+> shuts out another, don't bet on goals.
+
+### Pattern Confirmation
+
+| H2H Metric | Before Match | After Match |
+|------------|--------------|-------------|
+| Inter winning streak vs Atalanta | 8 | **9** |
+| Inter clean sheets vs Atalanta | 4 | **5** |
+| Atalanta's last win vs Inter | Nov 2018 | Still Nov 2018 (6+ years) |
+
+---
+
+*Post-match update: December 29, 2025*
