@@ -307,3 +307,96 @@ Today's -1.00 (implied) is within normal range but **does NOT account for Genoa'
 ---
 
 *Report generated: December 29, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** AS Roma 3-1 Genoa
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.0** | @ 2.09 | **LOST** (4 goals) |
+| **Roma -1.00** | @ 2.22 (SKIPPED) | Would have **WON** |
+
+### Critical Error: Trusted Market Skepticism When Fundamentals Were Too Strong
+
+| Our Assessment | Reality |
+|---------------|---------|
+| Trusted market's soft line @ 2.22 | Market was WRONG |
+| Expected grinding 0-0, 1-0, 1-1 | Roma dominated 3-1 |
+| Weighted Roma's attacking issues | 3rd choice GK got exposed |
+| Said "market knows something" | Market overreacted to Roma's issues |
+
+### What Happened
+
+- Roma's H2H dominance continued — now **17/19 home wins** vs Genoa
+- Genoa's **3rd choice GK Sommariva** was exposed (conceded 3)
+- Roma's "broken attack" scored 3 goals
+- The 35-year pattern held — Genoa STILL haven't won at Roma since 1990
+
+### Why We Were Wrong
+
+| Factor | Our Weight | Should Have Been |
+|--------|------------|------------------|
+| H2H (16/18, 35 years) | Medium | **CRITICAL** |
+| 3rd choice GK | Noted | **DECISIVE** |
+| Market @ 2.22 | Trusted skepticism | **Should have seen as value** |
+| Roma attacking issues | Overweighted | Less relevant vs weak GK |
+
+### The Lesson: When Fundamentals Override Market Skepticism
+
+**We followed:** "Market soft = trust skepticism"
+
+**We missed:** When H2H is **EXTREME** + opponent has **CRITICAL CRISIS**, fundamentals override.
+
+| Scenario | Action |
+|----------|--------|
+| H2H exists + Market soft | Trust market |
+| H2H **EXTREME** + Market soft + **Major crisis** | **BET the favorite** |
+
+Roma -1.00 @ 2.22 was VALUE because:
+- 16/18 H2H (EXTREME, not just "good")
+- 35 years without Genoa win at Roma
+- 3rd choice GK = defensive disaster
+- Market overpriced Roma's attacking concerns
+
+### What I Got Right
+
+- Identified H2H dominance correctly
+- Noted Genoa's GK crisis
+- Recognized market was soft
+
+### What I Got Wrong
+
+- **Trusted market skepticism over extreme fundamentals**
+- **Underweighted GK crisis** — 3rd choice keeper facing 16/18 H2H dominant team = disaster
+- **Bet Under when GK crisis suggests Over**
+- Roma -1.00 @ 2.22 was the value play, not a trap
+
+### Future Application
+
+1. **When H2H is EXTREME (15+) AND opponent has CRITICAL crisis (GK, 5+ absences) → BET favorite despite market softness**
+2. **GK crisis = lean OVER, not Under** — goals will be conceded
+3. **Market can be wrong** — especially when overreacting to short-term attacking issues vs structural advantages
+4. **2.22 on a 16/18 H2H dominant team was screaming value** — should have recognized it
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Under 2.0 @ 2.09 | 1u | LOST | -1.00u |
+| Roma -1.00 @ 2.22 | SKIPPED | Would have WON | Missed +1.22u |
+
+### Critical Note for Future
+
+> When three factors align: (1) EXTREME H2H dominance (15+), (2) opponent CRITICAL crisis
+> like GK issues, (3) market still favoring the dominant team but at soft odds —
+> this is VALUE, not a trap. The 2.22 on Roma -1.00 should have been ~1.85.
+> We left money on the table by trusting market skepticism over fundamentals.
+
+---
+
+*Post-match update: December 29, 2025*
