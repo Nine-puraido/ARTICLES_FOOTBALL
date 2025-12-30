@@ -32,7 +32,7 @@
 | Match | Bet | Odds | Confidence | Rationale |
 |-------|-----|------|------------|-----------|
 | **Forest vs Everton** | Under 2.5 | ~1.90 | MEDIUM | H2H: 8/10 games Under 2.5; both struggling to score |
-| **Man Utd vs Wolves** | Under 3.0 | 1.93 | MEDIUM | Bruno OUT; United's creative crisis |
+| **Man Utd vs Wolves** | Man Utd -1.25 | 1.95 | MEDIUM | Wolves crisis (André suspended, 2pts, sold Cunha to opponent) > United crisis |
 | Chelsea vs Bournemouth | Under 3.0 | ~1.93 | MEDIUM | H2H: last 3 draws, low-scoring |
 | Arsenal vs Villa | Over 2.5 | 1.88 | MEDIUM | Both attack-minded; Villa's suspensions |
 
@@ -48,13 +48,15 @@
 - BUT: Everton beat Forest 3-0 at same venue 3 weeks ago
 - **Lesson from Roma/Genoa:** Don't always trust market skepticism
 
-### 2. Man Utd vs Wolves: Creative Crisis Ignored by Model
+### 2. Man Utd vs Wolves: Clash of Two Crises
 - Model predicts 3.45-0.48 blowout
-- Market says Under 3.0
-- **Bruno Fernandes OUT** changes everything
-- 4-1 win 8 days ago was WITH Bruno
-- **LINE MOVED: -1.50 → -1.25** (market getting MORE skeptical)
-- Gap now **0.75** — significant disagreement
+- Market says -1.25, Under 3.0
+- **Bruno Fernandes OUT** — but...
+- **André SUSPENDED** for Wolves (their best midfielder)
+- **Matheus Cunha** now plays for United (was Wolves' top scorer)
+- Wolves: 2 pts, 11-game losing streak, -28 GD
+- **LINE MOVED: -1.50 → -1.25** (market overpricing Bruno absence?)
+- **Wolves' crisis > United's crisis = potential value on -1.25**
 
 ### 3. Arsenal vs Villa: Market Aggressive
 - Model: -0.75; Market: -1.25
