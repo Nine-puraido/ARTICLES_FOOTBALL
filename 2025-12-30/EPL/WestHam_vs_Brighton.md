@@ -249,3 +249,84 @@ Today's +0.25 is **CONSISTENT** given:
 ---
 
 *Report generated: December 30, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** West Ham 2-2 Brighton
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| Draw | @ 3.75 | Would have **WON** |
+| Under 2.5 | @ ~1.85 | Would have **LOST** (4 goals) |
+
+### Correct Read: "Draw Written All Over It"
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Draw written all over it — Brighton unbeaten in 8 visits" | **EXACTLY** |
+| "6 draws in 8 visits to London Stadium" | 7th draw now |
+| "Both teams in poor form" | Neither could win |
+| "Odds @ 3.75 outside our range" | Correct — but missed value |
+
+### What Happened
+
+- Brighton's unbeaten run at London Stadium continues (now 9 visits, 0 losses)
+- 7th draw at this venue for Brighton
+- Pattern held perfectly
+- 4 goals though — both teams scored 2
+
+### Why We Were Right (But Didn't Bet)
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| Brighton unbeaten in 8 visits | HIGH (draw likely) | **9 visits now, still unbeaten** |
+| Draw @ 3.75 | Outside 1.80-2.20 range | Would have been +2.75u profit |
+| West Ham home crisis | HIGH | Still couldn't beat Brighton |
+
+### The Lesson: Venue-Specific Draw Patterns
+
+**We correctly identified:**
+- Brighton's extreme record at London Stadium
+- Draw was the most likely outcome
+- Neither team's form suggested a winner
+
+**What we missed:**
+- Should have expanded range for extreme patterns
+- Draw @ 3.75 was value given 6/8 historical draws
+
+**Rule to Consider:**
+> When venue-specific H2H shows EXTREME draw pattern (6+ draws):
+> - Draw odds @ 3.50+ may still be value
+> - Consider expanding range for exceptional cases
+
+### What We Got Right
+
+- Identified draw as most likely outcome
+- Correctly read Brighton's venue-specific dominance
+- SKIP on AH was correct (neither covered)
+
+### What We Missed
+
+- Draw @ 3.75 was value — +2.75u missed
+- Too rigid on 1.80-2.20 range for exceptional patterns
+
+### Future Application
+
+1. **Venue-specific draw patterns = trust them**
+2. **When draw pattern is EXTREME (6+), consider odds outside normal range**
+3. **Brighton at London Stadium = ALWAYS consider draw**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| SKIP | - | - | 0 |
+| Draw @ 3.75 | NOT BET | Would have WON | Missed +2.75u |
+
+---
+
+*Post-match update: December 30, 2025*

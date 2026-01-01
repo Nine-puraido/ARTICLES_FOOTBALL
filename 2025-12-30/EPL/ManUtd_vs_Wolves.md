@@ -306,3 +306,88 @@ Today's -1.25 is **AT THE SOFT END** given:
 ---
 
 *Report generated: December 30, 2025 (CORRECTED)*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Manchester United 1-1 Wolverhampton Wanderers
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Man Utd -1.25** | @ 1.95 | **LOST** (Draw) |
+| Under 3.0 | @ 1.93 | Would have **WON** |
+
+### Critical Error: Overestimated Wolves' Crisis, Underestimated Bruno's Impact
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Wolves crisis > United crisis" | Bruno's absence was MORE impactful |
+| "Cunha vs old club = motivation" | Not enough to break down Wolves |
+| "1-0 vs Newcastle = form returning" | **TEMPORARY — one result doesn't fix team** |
+| "André suspended = Wolves collapse" | Wolves still defended adequately |
+
+### What Happened
+
+- Man Utd couldn't break down the WORST team in PL history (2 pts)
+- Bruno Fernandes truly IS "impossible to replace" — Amorim was literal
+- Single result vs Newcastle was misleading indicator
+- Wolves' desperation created defensive solidarity
+
+### Why We Were Wrong
+
+| Factor | Our Weight | Should Have Been |
+|--------|------------|------------------|
+| Bruno OUT | HIGH | **CRITICAL** |
+| 1-0 vs Newcastle | Positive signal | **IGNORE — temporary** |
+| André suspended | HIGH (Wolves collapse) | MEDIUM (they adapted) |
+| Wolves 2 pts | Critical collapse | Desperation = fight |
+
+### The Lesson: Single Result Extrapolation
+
+**We followed:** "United beat Newcastle 1-0 = form recovering"
+
+**We missed:**
+- Bruno still OUT
+- Formation still unstable
+- AFCON absences still hurting
+- 4-4 vs Bournemouth was more representative than 1-0 vs Newcastle
+
+**Rule to Add:**
+> One positive result does NOT indicate form recovery when:
+> - Key player (captain/creative hub) is still absent
+> - Multiple structural issues remain
+> - Previous results showed chaos
+
+### What We Got Right
+
+- Identified Bruno's importance correctly
+- Noted the line moving softer (market was right)
+- Under 3.0 would have won (2 goals)
+
+### What We Got Wrong
+
+- **Overweighted Wolves' crisis** — they had nothing to lose, fought hard
+- **Underweighted Bruno's absence** — he IS the team's creativity
+- **Trusted single-result form** — 1-0 vs Newcastle was anomaly
+- **Backed margin when should have backed Under**
+
+### Future Application
+
+1. **When captain/creative hub is OUT = Don't back margin, back Under**
+2. **Single positive result while key player absent = IGNORE**
+3. **Desperate teams (2 pts) don't always collapse — they can fight**
+4. **"Impossible to replace" = believe the manager**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Man Utd -1.25 @ 1.95 | 1u | LOST | -1.00u |
+| Under 3.0 @ 1.93 | SKIPPED | Would have WON | Missed +0.93u |
+
+---
+
+*Post-match update: December 30, 2025*

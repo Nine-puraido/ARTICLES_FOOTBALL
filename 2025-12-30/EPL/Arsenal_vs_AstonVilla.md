@@ -270,3 +270,76 @@ Today's -1.25 is **AT THE AGGRESSIVE END** but explainable given:
 ---
 
 *Report generated: December 30, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Arsenal 4-1 Aston Villa (Villa goal at 90+4')
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Over 2.5** | @ 1.88 | **WON** (5 goals) |
+| Arsenal -1.25 | @ ~1.95 | Would have **WON** |
+
+### Correct Analysis: CDM Suspension = Defensive Collapse
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Kamara + Cash suspended = defense compromised" | **EXACTLY** — conceded 4 |
+| "Villa's 11-game streak irrelevant without CDM" | Form collapsed without shield |
+| "Over 2.5 is safer than AH" | Both would have won |
+| Market aggressive (-1.25) was correct | Arsenal dominated |
+
+### What Happened
+
+- Arsenal scored 4 goals — Villa only managed consolation at 90+4'
+- Kamara's absence was CRITICAL — no protective shield for back line
+- Cash's absence exposed right side
+- Villa's 11-game winning streak meant nothing without defensive structure
+
+### Why We Were Right
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| Kamara suspended | HIGH (CDM shield gone) | **CRITICAL** |
+| Cash suspended | MEDIUM (RB depth) | Important |
+| Villa's winning streak | Noted but discounted | Irrelevant without Kamara |
+| Over 2.5 vs AH | Preferred Over | Both correct |
+
+### The Lesson: CDM/Defensive Shield Suspension
+
+**We correctly identified:**
+- Kamara protects the back line
+- His suspension = back line exposed
+- Result: 4 goals conceded
+
+**Rule Confirmed:**
+> When CDM/defensive midfielder is suspended:
+> - Team loses protective shield
+> - Back line exposed to direct attacks
+> - **Lean OVER regardless of opponent quality**
+
+### What We Got Right
+
+- CDM suspension = defensive collapse
+- Over 2.5 was the right play
+- Didn't trust Villa's winning streak without key defensive players
+
+### Future Application
+
+1. **CDM suspension = OVER** (confirmed)
+2. **Winning streaks mean nothing when defensive structure is broken**
+3. **When market is aggressive AND key defender suspended = trust market**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Over 2.5 @ 1.88 | 1u | WON | +0.88u |
+
+---
+
+*Post-match update: December 30, 2025*

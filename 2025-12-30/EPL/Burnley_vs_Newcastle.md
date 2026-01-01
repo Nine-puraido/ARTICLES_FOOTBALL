@@ -240,3 +240,77 @@ Today's +1.00 is **CONSISTENT** with normal pricing for Newcastle away vs strugg
 ---
 
 *Report generated: December 30, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Burnley 1-3 Newcastle
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| SKIP | - | - |
+| Newcastle +1.00 | @ ~2.00 | Would have **WON** (won by 2) |
+| Over 2.75 | @ 2.04 | Would have **WON** (4 goals) |
+
+### SKIP Was Correct Decision
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "No clear edge — model-market agreement" | Correct — no value identified |
+| "Newcastle H2H dominance (5 straight)" | Continued — now 6 straight |
+| "Newcastle's defensive crisis" | Still won away |
+| "Robert Jones high-card referee" | 4 goals suggests open game |
+
+### What Happened
+
+- Newcastle's H2H dominance continued (6th straight win vs Burnley)
+- Newcastle won despite 6 defenders out
+- Burnley still can't beat Newcastle (since 2019)
+- 4 goals — Over would have hit
+
+### Why SKIP Was Right
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| Model-market agreement | No edge | Correct |
+| No bet in 1.80-2.20 range | SKIP | Right call |
+| Newcastle away weakness | Cautious | They won anyway |
+
+### The Lesson: H2H Dominance Can Override Crisis
+
+**Pattern confirmed:**
+- Newcastle beat Burnley AGAIN despite massive injury crisis
+- 6 defenders out didn't matter — H2H pattern too strong
+- Similar to Roma vs Genoa (Dec 29) — extreme H2H overrides
+
+**Note:** When H2H is EXTREME (6+ in a row) AND market still backs favorite (even softly), the pattern usually continues.
+
+### What We Got Right
+
+- SKIP was correct — no clear edge in our range
+- Identified H2H dominance
+- Didn't get caught backing Burnley
+
+### What We Missed
+
+- Could have noted Over 2.75 @ 2.04 (in range, H2H shows goals)
+- Newcastle's quality still showed through despite crisis
+
+### Future Application
+
+1. **EXTREME H2H (6+) often overrides current form/injuries**
+2. **When SKIP is correct, it's correct — no regrets**
+3. **Burnley vs Newcastle = Newcastle wins, goals scored**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| SKIP | - | - | 0 |
+
+---
+
+*Post-match update: December 30, 2025*

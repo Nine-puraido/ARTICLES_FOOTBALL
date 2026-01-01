@@ -294,3 +294,83 @@ Roma -1.00 @ 2.22 was SKIPPED due to market skepticism. Result: Roma won 3-1. We
 ---
 
 *Report generated: December 30, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Nottingham Forest 0-2 Everton
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.5** | @ 1.90 | **WON** (2 goals) |
+| Everton +0.50 | @ ~2.00 | Would have **WON** (Everton won outright) |
+
+### Correct Analysis: Recent H2H at Same Venue is GOLD
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Everton beat Forest 3-0 at City Ground 3 weeks ago" | **Pattern repeated** |
+| "Market overpricing Forest (-0.50) despite recent H2H" | Market was WRONG |
+| "Under 2.5 is safer given H2H pattern" | 8/10 H2H Under 2.5 — confirmed |
+| "Everton +0.50 has value" | Even better — Everton won 2-0 |
+
+### What Happened
+
+- Everton dominated AGAIN at City Ground
+- Same pattern as 3 weeks ago (3-0 → 0-2)
+- Forest couldn't score (again — failed to score in 5 of 6 H2H)
+- Market's -0.50 Forest line was completely wrong
+
+### Why We Were Right
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| 3-0 Everton win 3 weeks ago | CRITICAL signal | **Exact pattern repeated** |
+| H2H: Under 2.5 in 8/10 | HIGH | Confirmed (2 goals) |
+| Market favoring Forest (-0.50) | Questioned it | Market was WRONG |
+| Everton's scoring crisis | Noted but discounted | They found goals vs Forest |
+
+### The Lesson: Recent Same-Venue H2H Priority
+
+**We correctly identified:**
+- Everton beat Forest 3-0 at same venue just 3 weeks ago
+- Market was overpricing Forest home advantage
+- H2H pattern showed Under 2.5
+
+**Rule Confirmed:**
+> When Team A beat Team B at same venue within 3-4 weeks:
+> - This is the STRONGEST signal
+> - Market often underweights this
+> - Trust the pattern to repeat
+
+### What We Got Right
+
+- Recent H2H was the key signal
+- Under 2.5 was the right play
+- Identified market was wrong on Forest -0.50
+- Noted Everton +0.50 as secondary value play
+
+### What We Could Have Done Better
+
+- Should have bet Everton +0.50 as PRIMARY, not secondary
+- 3-0 win 3 weeks ago + H2H dominance = back Everton, not just Under
+
+### Future Application
+
+1. **Recent same-venue H2H (3-4 weeks) = STRONGEST signal**
+2. **When market contradicts recent H2H = bet against market**
+3. **Forest vs Everton H2H pattern = Everton dominates, low-scoring**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Under 2.5 @ 1.90 | 1u | WON | +0.90u |
+| Everton +0.50 @ 2.00 | NOT BET | Would have WON | Missed opportunity |
+
+---
+
+*Post-match update: December 30, 2025*

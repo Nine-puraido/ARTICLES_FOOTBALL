@@ -232,3 +232,77 @@ Today's -1.25 is **CONSISTENT** with Chelsea's typical home pricing. The H2H pat
 ---
 
 *Report generated: December 30, 2025*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Chelsea 2-2 AFC Bournemouth
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 3.0** | @ 1.93 | **LOST** (4 goals) |
+| Chelsea -1.00 | @ ~1.85 | Would have **LOST** (Draw) |
+
+### Wrong Analysis: H2H Pattern Broke
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "H2H shows 3 straight draws, low-scoring" | Draw yes, but 4 goals |
+| "Under 3.0 is where market is confident" | Pattern broke |
+| "Chelsea finishing issues" | Chelsea scored 2 |
+| "Bournemouth resilience" | They also scored 2 |
+
+### What Happened
+
+- 4th consecutive draw between these teams
+- But 4 goals vs previous low-scoring pattern
+- Bournemouth's attacking form continued (4-4 at United, now 2-2 at Chelsea)
+- Neither team could close out
+
+### Why We Were Wrong
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| H2H low-scoring (last 2 = 0-0, 0-0) | HIGH | Pattern changed |
+| Chelsea's finishing issues | HIGH | They scored 2 |
+| Bournemouth's 9-game winless | HIGH | Still scoring though |
+
+### The Lesson: H2H Patterns Can Break
+
+**We followed:** "Last 3 H2H = draws with low goals"
+
+**We missed:**
+- Bournemouth's recent high-scoring games (4-4 at United)
+- Both teams' defensive vulnerability
+- Pattern was due for regression
+
+**Note:** H2H patterns are useful but NOT absolute. Recent team form (Bournemouth scoring freely) should override older H2H patterns.
+
+### What We Got Right
+
+- Draw was correct outcome
+- Chelsea wouldn't cover margin
+
+### What We Got Wrong
+
+- Under 3.0 was wrong — 4 goals
+- Trusted H2H pattern over recent Bournemouth attacking form
+
+### Future Application
+
+1. **H2H patterns can break** — don't over-rely on them
+2. **Recent team form (Bournemouth 4-4 at United) > older H2H patterns**
+3. **When underdog is scoring freely, don't back Under**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Under 3.0 @ 1.93 | 0.5u | LOST | -0.50u |
+
+---
+
+*Post-match update: December 30, 2025*

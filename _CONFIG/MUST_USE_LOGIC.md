@@ -1,6 +1,6 @@
 # MUST-USE BETTING LOGIC
 
-**Last Updated:** December 29, 2025
+**Last Updated:** December 30, 2025
 
 ---
 
@@ -179,6 +179,152 @@ Sunderland vs Leeds: Under 2.0 @ 2.12 → PUSH (exactly 2 goals).
 
 ---
 
+### 11. SINGLE RESULT EXTRAPOLATION WARNING
+
+Man Utd beat Newcastle 1-0 → We thought "form returning" → Drew 1-1 vs Wolves (worst team in PL).
+
+| Scenario | Reality |
+|----------|---------|
+| One positive result | Does NOT indicate form recovery |
+| Key player still absent | Team still broken |
+| Previous chaos (4-4 vs Bournemouth) | More representative than one clean win |
+
+**Rule:** One positive result does NOT indicate form recovery when:
+- Key player (captain/creative hub) is still absent
+- Multiple structural issues remain (AFCON, formation changes)
+- Previous results showed chaos
+
+**Example — Man Utd vs Wolves (Dec 30):**
+- United beat Newcastle 1-0 (Dec 26)
+- Bruno Fernandes still OUT
+- We backed United -1.25 thinking "form returning"
+- Result: Drew 1-1 vs WORST team in PL (2 pts)
+- **Lesson:** "Good form vs Newcastle was just temporary"
+
+---
+
+### 12. RECENT SAME-VENUE H2H (3-4 WEEKS) = STRONGEST SIGNAL
+
+When Team A beat Team B at the SAME venue within 3-4 weeks, trust the pattern to repeat.
+
+| Match | Recent H2H | Market | Result |
+|-------|------------|--------|--------|
+| Forest vs Everton (Dec 30) | Everton 3-0 at City Ground (Dec 6) | Forest -0.50 | **Everton 0-2** |
+
+**Rule:** When Team A beat Team B at same venue within 3-4 weeks:
+- This is the STRONGEST signal available
+- Market often underweights this
+- Trust the pattern to repeat
+- If market contradicts recent same-venue H2H = **bet against market**
+
+**Example — Forest vs Everton (Dec 30):**
+- Everton beat Forest 3-0 at City Ground just 3 weeks prior
+- Market had Forest as -0.50 favorites
+- We identified market was wrong
+- Result: Everton won 0-2 — same pattern repeated
+
+---
+
+### 13. CDM/DEFENSIVE SHIELD SUSPENSION = LEAN OVER
+
+When a team's CDM (defensive midfielder) is suspended, their defensive structure collapses.
+
+| Match | CDM Suspended | Result |
+|-------|---------------|--------|
+| Arsenal vs Villa (Dec 30) | Kamara (Villa) | Arsenal 4-1 |
+
+**Rule:** When CDM/defensive midfielder is suspended:
+- Team loses its protective shield in front of back line
+- Back line exposed to direct attacks
+- **Lean OVER regardless of opponent quality**
+- Winning streaks/form mean nothing without defensive structure
+
+**Example — Arsenal vs Villa (Dec 30):**
+- Kamara suspended (5th yellow)
+- Villa had 11-game winning streak
+- We correctly bet Over 2.5 @ 1.88
+- Result: 5 goals (Arsenal 4-1)
+- Villa's streak meant nothing without Kamara shielding defense
+
+---
+
+### 14. VENUE-SPECIFIC DRAW PATTERNS
+
+When H2H at a SPECIFIC venue shows extreme draw pattern (6+ draws), trust it.
+
+| Venue | Pattern | Result |
+|-------|---------|--------|
+| London Stadium (WHU vs BHA) | 6 draws in 8 Brighton visits | 2-2 Draw |
+
+**Rule:** When venue-specific H2H shows EXTREME draw pattern (6+ draws):
+- Draw is the most likely outcome
+- Consider draw bets even outside 1.80-2.20 range
+- Pattern usually continues regardless of form
+
+**Example — West Ham vs Brighton (Dec 30):**
+- Brighton unbeaten in 8 visits to London Stadium (6 draws, 2 wins)
+- We identified "draw written all over it"
+- Didn't bet because Draw @ 3.75 was outside range
+- Result: 2-2 (7th draw at this venue)
+- **Lesson:** Consider expanding range for EXTREME patterns
+
+---
+
+### 15. WHEN UNDERDOG IS SCORING FREELY = DON'T BACK UNDER
+
+Recent team attacking form can override H2H low-scoring patterns.
+
+| Match | H2H Pattern | Recent Form | Result |
+|-------|-------------|-------------|--------|
+| Chelsea vs Bournemouth | Last 3 = low-scoring draws | Bournemouth 4-4 at United | 2-2 (4 goals) |
+
+**Rule:** H2H patterns can break. When underdog has recent high-scoring games:
+- Recent attacking form > older H2H patterns
+- Don't back Under just because H2H was low-scoring
+- Check underdog's last 3-5 results for goals
+
+**Example — Chelsea vs Bournemouth (Dec 30):**
+- H2H showed 3 consecutive low-scoring draws
+- We bet Under 3.0 @ 1.93
+- BUT: Bournemouth had just drawn 4-4 at United
+- Result: 2-2 (4 goals) — Under lost
+- **Lesson:** Bournemouth's recent scoring form should have overridden H2H
+
+---
+
+### 16. WHEN TO OVERRIDE MARKET SKEPTICISM
+
+From Roma vs Genoa (Dec 29) and Newcastle vs Burnley (Dec 30):
+
+| Condition | Action |
+|-----------|--------|
+| H2H EXTREME (15+ or 6+ consecutive) | Consider overriding market |
+| Opponent has CRITICAL crisis (GK, 5+ out) | Strengthens override case |
+| Market still backs favorite (even softly) | Pattern likely continues |
+
+**Rule:** When to override market skepticism and BET the favorite:
+
+All THREE must be true:
+1. H2H dominance is **EXTREME** (15+ wins OR 6+ consecutive wins)
+2. Opponent has **CRITICAL crisis** (GK crisis, key suspensions, 5+ absences)
+3. Market still favors the dominant team (just at soft odds)
+
+→ **BET the favorite. Market is likely overreacting to short-term issues.**
+
+**Example — Roma vs Genoa (Dec 29):**
+- Roma 16/18 home wins vs Genoa (35 years without Genoa win)
+- Genoa had 3rd choice GK
+- Market soft @ 2.22 on Roma -1.00
+- We SKIPPED (trusted market skepticism)
+- Result: Roma 3-1 — we missed +1.22u
+
+**Example — Newcastle vs Burnley (Dec 30):**
+- Newcastle 5 straight wins vs Burnley (6 years since Burnley PL win)
+- Newcastle had 6 defenders out BUT H2H too strong
+- Result: Newcastle 3-1 — pattern continued despite crisis
+
+---
+
 ## QUICK REFERENCE: DECISION MATRIX
 
 | Situation | Action |
@@ -194,6 +340,12 @@ Sunderland vs Leeds: Under 2.0 @ 2.12 → PUSH (exactly 2 goals).
 | AFCON/major absences + low confidence | **REDUCE** stake |
 | Clean sheet pattern in H2H (4+) | Lean **UNDER** |
 | Confidence LOW but want to bet anyway | **SKIP** — trust your analysis |
+| One positive result + key player still OUT | **DON'T extrapolate** — temporary form |
+| Recent same-venue H2H (3-4 weeks) contradicts market | **BET against market** — strongest signal |
+| CDM/defensive midfielder suspended | **Lean OVER** — defensive shield gone |
+| Venue-specific draw pattern (6+) | **Consider Draw** — even outside range |
+| Underdog scoring freely in recent games | **Avoid Under** — recent form > H2H pattern |
+| EXTREME H2H (6+ consecutive) + opponent crisis | **Override market skepticism** — pattern continues |
 
 ---
 
@@ -205,6 +357,9 @@ Sunderland vs Leeds: Under 2.0 @ 2.12 → PUSH (exactly 2 goals).
 4. You said SKIP but you're adding a "best bet" anyway — why?
 5. You're backing a "crisis" team to lose — have you seen them adapt before?
 6. Market and model AGREE but you want to go opposite — what do YOU know that they don't?
+7. Team just had ONE good result but key player still absent — is form really "returning"?
+8. You're backing Under but underdog just scored 4+ in recent game — recent form vs H2H pattern?
+9. Same teams played at same venue 3-4 weeks ago — are you respecting that result?
 
 ---
 
