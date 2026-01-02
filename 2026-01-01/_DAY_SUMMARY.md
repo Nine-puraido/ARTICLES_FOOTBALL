@@ -1,5 +1,34 @@
 # Daily Summary: January 01, 2026
 
+## RESULTS
+
+| Match | Score | Recommended | User Bet | Outcome |
+|-------|-------|-------------|----------|---------|
+| Crystal Palace vs Fulham | **1-1** | SKIP | Palace ML @ 2.14 | LOST |
+| Liverpool vs Leeds | **0-0** | Under 2.75 | Under 2.75 @ 1.97 | **WON** |
+| Sunderland vs Man City | **0-0** | SKIP | Sunderland +1.50 @ 1.95 | **WON** |
+| Brentford vs Tottenham | **0-0** | Under 2.5 | Tottenham ML @ 3.00 | LOST |
+
+---
+
+## Daily P/L: **-0.08u**
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Palace ML @ 2.14 | 1u | LOST | -1.00u |
+| Liverpool Under 2.75 @ 1.97 | 1u | WON | +0.97u |
+| Sunderland +1.50 @ 1.95 | 1u | WON | +0.95u |
+| Tottenham ML @ 3.00 | 1u | LOST | -1.00u |
+| **TOTAL** | 4u | 2W-2L | **-0.08u** |
+
+---
+
+## KEY RESULT: THREE 0-0 DRAWS
+
+This was an extraordinary Under day. Market was RIGHT to price lower totals.
+
+---
+
 ## Matches Analyzed
 
 | Match | Model AH | Market AH | AH Gap | Model Total | Market Total | Total Gap | Decision |
@@ -60,17 +89,6 @@
 
 ---
 
-## Bets Placed
-
-| Match | Bet | Odds | Stake | Result | P/L |
-|-------|-----|------|-------|--------|-----|
-| - | - | - | - | - | - |
-
-**Total Stakes:** 0u
-**Total P/L:** 0u
-
----
-
 ## Key Themes for January 1
 
 ### 1. AFCON Impact Is Massive
@@ -105,4 +123,49 @@
 
 ---
 
+## KEY LESSONS FROM JANUARY 1
+
+### 1. Holiday Fixture Congestion = LEAN UNDER
+- 3 out of 4 matches were 0-0
+- Teams prioritizing not losing over winning
+- Fatigue + rotation + AFCON = low-scoring
+
+### 2. AFCON + Key Absences = HEAVY UNDER
+- Liverpool without Salah = toothless
+- Leeds without Rodon = parked bus
+- Result: 0-0 (Under crushed)
+
+### 3. Newly Promoted Home Fortress Is REAL
+- Sunderland (10-0-0 at home) held City to 0-0
+- Even with 6 AFCON players missing
+- City 1.40 was NOT safe
+
+### 4. Manager vs Former Club = Tactical Stalemate
+- Thomas Frank vs Brentford = 0-0
+- Both sides neutralized each other
+- Under was the play
+
+### 5. When Model-Market Totals Gap Is 1+ Goals
+- Liverpool: Model 3.75, Market 2.75
+- Result: 0 goals
+- **TRUST MARKET'S CAUTION on Totals**
+
+---
+
+## What We Got Right
+
+1. Liverpool Under 2.75 — IDENTIFIED as best bet
+2. Brentford vs Spurs Under 2.5 — IDENTIFIED as best option
+3. City 1.40 "too short" — CORRECT
+4. Palace home scoring drought — Noted (though it broke)
+
+## What We Missed
+
+1. Should have been MORE confident on Unders
+2. Sunderland +1.50 was better than we suggested
+3. Draw @ 3.50-4.38 had value on holiday fixtures
+
+---
+
 *Summary generated: January 01, 2026*
+*Post-match update: January 01, 2026*

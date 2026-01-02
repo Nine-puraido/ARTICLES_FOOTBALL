@@ -1,6 +1,6 @@
 # MUST-USE BETTING LOGIC
 
-**Last Updated:** December 30, 2025
+**Last Updated:** January 01, 2026
 
 ---
 
@@ -325,6 +325,91 @@ All THREE must be true:
 
 ---
 
+### 17. HOLIDAY FIXTURE CONGESTION = LEAN UNDER
+
+Holiday periods (New Year, Boxing Day, Easter) with fixture pile-ups create low-scoring environments.
+
+| Match | Date | Score |
+|-------|------|-------|
+| Liverpool vs Leeds | Jan 1 | 0-0 |
+| Sunderland vs Man City | Jan 1 | 0-0 |
+| Brentford vs Tottenham | Jan 1 | 0-0 |
+
+**Rule:** During holiday fixture congestion:
+- Teams prioritize NOT LOSING over winning
+- Rotation + fatigue + AFCON = reduced attacking intensity
+- **Lean UNDER across the board**
+
+---
+
+### 18. KEY CREATOR ABSENT + OPPONENT KEY DEFENDER ABSENT = HEAVY UNDER
+
+When favorite loses their KEY CREATOR and underdog loses their KEY DEFENDER, goals dry up.
+
+**Example — Liverpool vs Leeds (Jan 1):**
+- Liverpool: Salah at AFCON (key creator GONE)
+- Leeds: Rodon injured (key CB, first miss since Oct 2023)
+- Model: 3.75 goals | Market: 2.75 goals
+- Result: **0-0** — Under crushed
+
+**Rule:** When BOTH teams lose key attacking/defensive pieces:
+- Favorite loses creativity → can't break down blocks
+- Underdog loses defensive leader → parks bus deeper (no one to organize adventurous play)
+- **Lean HEAVY Under**
+
+---
+
+### 19. NEWLY PROMOTED HOME FORTRESS = REAL AND DURABLE
+
+Newly promoted teams with elite home records (8+ unbeaten) maintain that form even with absences.
+
+**Example — Sunderland vs Man City (Jan 1):**
+- Sunderland: 9-0-0 at home, missing 6 AFCON players
+- City: 8-game winning streak, 1.40 odds
+- Result: **0-0** — Sunderland now 10-0-0 at home
+
+**Rule:** Newly promoted teams with ELITE home records (8+ unbeaten):
+- Home fortress mentality is REAL and DURABLE
+- Even with significant absences, home form compensates
+- **Favorites at short odds (sub 1.50) are NOT safe**
+- Consider underdog handicap or Under
+
+---
+
+### 20. MANAGER VS FORMER CLUB = TACTICAL STALEMATE
+
+When a manager faces their former club, they know the opponent inside-out. Result: tactical neutralization.
+
+**Example — Brentford vs Tottenham (Jan 1):**
+- Thomas Frank (Spurs manager) faced Brentford (his former club for 7+ years)
+- H2H before: 2-0, 2-0 (low-scoring)
+- Result: **0-0** — third consecutive low-scoring H2H
+
+**Rule:** When manager faces FORMER CLUB:
+- Expect tactical stalemate
+- Manager knows opponent's weaknesses AND strengths
+- Both sides neutralize each other
+- **Lean HEAVY Under** — often results in draws or narrow margins
+
+---
+
+### 21. MODEL-MARKET TOTALS GAP 1+ GOALS = TRUST MARKET
+
+When the gap between Model and Market on Totals is 1+ goals, the market usually knows something the model doesn't.
+
+**Example — Liverpool vs Leeds (Jan 1):**
+- Model: 3.75 goals
+- Market: 2.75 goals
+- Gap: 1.00 goals
+- Result: **0 goals** — Market was RIGHT
+
+**Rule:** When Model-Market Totals gap is 1+ goals:
+- Market is pricing specific match conditions (absences, rotation, tactics)
+- Model is pricing historical averages
+- **TRUST MARKET'S CAUTION on Totals**
+
+---
+
 ## QUICK REFERENCE: DECISION MATRIX
 
 | Situation | Action |
@@ -346,6 +431,11 @@ All THREE must be true:
 | Venue-specific draw pattern (6+) | **Consider Draw** — even outside range |
 | Underdog scoring freely in recent games | **Avoid Under** — recent form > H2H pattern |
 | EXTREME H2H (6+ consecutive) + opponent crisis | **Override market skepticism** — pattern continues |
+| Holiday fixture congestion (New Year, Boxing Day) | **Lean UNDER** — teams prioritize not losing |
+| Key creator absent + opponent key defender absent | **HEAVY Under** — favorite toothless, underdog parks bus |
+| Newly promoted home fortress (8+ unbeaten) | **Respect it** — even with absences; avoid short-priced favorites |
+| Manager vs former club | **Lean UNDER** — tactical stalemate likely |
+| Model-Market Totals gap 1+ goals | **TRUST MARKET** — they see specific conditions |
 
 ---
 

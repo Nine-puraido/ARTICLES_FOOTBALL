@@ -267,3 +267,87 @@ Model expects 3.75 goals; Market expects 2.75
 ---
 
 *Report generated: January 01, 2026*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Liverpool 0-0 Leeds United
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.75** | @ 1.97 | **WON** (0 goals) |
+| Liverpool -1.25 | @ 1.95 | **LOST** (0-0 draw) |
+| Liverpool ML | @ 1.53 | **LOST** (Draw) |
+| Draw | @ 4.38 | Would have **WON** |
+
+### Correct Analysis: Totals Call Was PERFECT
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Model 3.75 vs Market 2.75 — 1-goal gap" | 0 goals — Market was RIGHT |
+| "Salah AFCON = massive creative loss" | **EXACTLY** — Liverpool couldn't score |
+| "Rodon out = Leeds will park bus" | **EXACTLY** — Leeds held clean sheet |
+| "Under 2.75 is justified" | **PERFECT CALL** |
+
+### What Happened
+
+- **0-0 draw** — Even lower than market expected
+- Liverpool without Salah were TOOTHLESS
+- Leeds without Rodon sat DEEP and defended brilliantly
+- Slot's rotation reduced attacking threat further
+- Farke's "defensive work comes first" philosophy worked
+
+### Why Under Was PERFECT
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| Salah AFCON absence | CRITICAL | Liverpool had no creativity |
+| Rodon injury | CRITICAL | Leeds sat deep, defended compact |
+| Slot rotation | HIGH | Reduced attacking intensity |
+| 9 games in 31 days | HIGH | Efficiency over entertainment |
+
+### The Lesson: AFCON + Key Defender Out = UNDER
+
+**Pattern confirmed:**
+- When BOTH teams lose key attacking/defensive pieces:
+  - Favorite loses creativity (Salah)
+  - Underdog becomes more compact (Rodon out → park bus)
+  - Result: UNDER crushes
+
+**Rule to add:**
+> When favorite loses KEY CREATOR (AFCON/injury) AND underdog loses KEY DEFENDER:
+> - Lean HEAVY Under
+> - Favorite often can't break down compact block
+> - Underdog sits deep without their defensive leader to organize adventurous play
+
+### What We Got Right
+
+- Under 2.75 was the BEST BET (we identified it)
+- Explained market's lower totals correctly
+- Understood Salah + Rodon absences impact
+
+### What We Missed
+
+- Could have been MORE confident on Under
+- 0-0 was extreme but direction was correct
+- Should have noted Draw @ 4.38 as secondary value
+
+### Future Application
+
+1. **Key creator absent + opponent's key defender absent = HEAVY Under**
+2. **Holiday fixtures with depleted squads = lean Under**
+3. **When model-market gap on Totals is 1+ goals, trust market's caution**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Under 2.75 @ 1.97 | 1u | WON | +0.97u |
+| Liverpool -1.25 @ 1.95 | 1u | LOST | -1.00u |
+
+---
+
+*Post-match update: January 01, 2026*

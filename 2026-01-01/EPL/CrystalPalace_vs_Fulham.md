@@ -241,3 +241,79 @@
 ---
 
 *Report generated: January 01, 2026*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Crystal Palace 1-1 Fulham
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| Palace ML | @ 2.14 | **LOST** (Draw) |
+| Fulham ML | @ 3.54 | **LOST** (Draw) |
+| Draw | @ 3.33 | Would have **WON** |
+| Under 2.5 | @ 1.79 | Would have **WON** (2 goals) |
+
+### Pattern Update: Palace BROKE Scoring Drought
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Palace 0 goals in 4 home H2H vs Fulham" | Palace scored (1 goal) — **PATTERN BROKE** |
+| "Fulham on 3-game away winning streak" | Streak ended (drew) |
+| "Draw @ 3.33 has value given H2H" | Draw was correct outcome |
+
+### What Happened
+
+- Palace finally scored at home vs Fulham (first time in 5 games)
+- But STILL didn't win — drew 1-1
+- Fulham's away winning streak ended
+- Low-scoring as expected (2 goals)
+
+### Why We Were Partially Right
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| Palace home scoring drought | HIGH (SKIP) | Broke but didn't matter for result |
+| Under 2.5 | Noted but too short | Would have WON |
+| Draw potential | Noted @ 3.33 | **CORRECT OUTCOME** |
+
+### The Lesson: Scoring Drought Breaking ≠ Win
+
+**Pattern confirmed:**
+- Historical patterns CAN break (Palace scored)
+- But breaking a scoring pattern doesn't guarantee a WIN
+- Draw was always the most likely outcome given both teams' form
+
+**Rule consideration:**
+> When team breaks a long scoring drought, they often still don't WIN — consider Draw as hedge
+
+### What We Got Right
+
+- SKIP was reasonable given uncertainty
+- Identified Draw as likely outcome
+- Under 2.5 thesis was correct (2 goals)
+
+### What We Missed
+
+- Could have bet Draw @ 3.33 (H2H showed draws common)
+- Under 2.5 @ 1.79 was safe value
+
+### Future Application
+
+1. **Scoring drought breaking ≠ automatic win**
+2. **When SKIP, consider Draw as value play in derby/rivalry matches**
+3. **Under still applies even when patterns show signs of breaking**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| SKIP (recommended) | - | - | 0 |
+| Palace ML (user bet) | 1u | LOST | -1.00u |
+
+---
+
+*Post-match update: January 01, 2026*

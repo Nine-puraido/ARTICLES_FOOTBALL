@@ -248,3 +248,85 @@
 ---
 
 *Report generated: January 01, 2026*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Sunderland 0-0 Manchester City
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Sunderland +1.50** | @ 1.95 | **WON** (0-0 covers easily) |
+| City ML | @ 1.40 | **LOST** (Draw) |
+| Draw | @ 4.82 | Would have **WON** |
+| Under 2.75 | @ 2.00 | Would have **WON** (0 goals) |
+
+### Correct Read: Home Fortress + Rotation = City Stunned
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Sunderland unbeaten at home (9-0-0)" | **NOW 10-0-0** — Fortress held |
+| "Guardiola confirmed rotation" | Rotation DID reduce quality |
+| "City 8-game winning streak" | **STREAK ENDED** |
+| "City 1.40 too short" | **EXACTLY** — No value at 1.40 |
+
+### What Happened
+
+- **0-0 draw** — City couldn't break down Sunderland
+- Sunderland's home record now 10 unbeaten
+- City's 8-game winning streak ENDED
+- Guardiola's rotation + Marmoush (AFCON) = toothless attack
+- Newly promoted team's home fortress is REAL
+
+### Why Sunderland +1.50 Won
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| Home fortress (9-0-0) | HIGH | Confirmed — now 10-0-0 |
+| City rotation | MEDIUM | Weakened City significantly |
+| AFCON (6 players out) | CONCERN | Defense still organized |
+| Haaland available | CONCERN | Couldn't score anyway |
+
+### The Lesson: Newly Promoted Home Fortress Is REAL
+
+**Pattern confirmed:**
+- Sunderland's home record DEFIED their AFCON absences
+- Even missing 6 players, home fortress mentality prevailed
+- City's rotation + AFCON (Marmoush) = couldn't break down organized defense
+
+**Rule to add:**
+> Newly promoted teams with ELITE home records (8+ unbeaten):
+> - Their home fortress is REAL and DURABLE
+> - Even with absences, home mentality can compensate
+> - Favorites at short odds (sub 1.50) are NOT safe
+
+### What We Got Right
+
+- Identified home fortress as key factor
+- Called City 1.40 "too short"
+- SKIP was correct for ML; handicap covered
+
+### What We Missed
+
+- Could have been more confident on Sunderland +1.50
+- Under 2.75 @ 2.00 was excellent value (0 goals)
+- Draw @ 4.82 was outside range but had value
+
+### Future Application
+
+1. **Newly promoted home fortress = respect it even with absences**
+2. **City short odds (sub 1.50) away = avoid or take underdog handicap**
+3. **Rotation + AFCON for favorite = lean Under and underdog covers**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Sunderland +1.50 @ 1.95 | 1u | WON | +0.95u |
+
+---
+
+*Post-match update: January 01, 2026*

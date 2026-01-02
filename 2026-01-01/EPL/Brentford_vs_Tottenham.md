@@ -278,3 +278,88 @@ Market expects Brentford -0.25 with 2.5 goals
 ---
 
 *Report generated: January 01, 2026*
+
+---
+
+## POST-MATCH RESULT & KEY TAKEAWAYS
+
+**Final Score:** Brentford 0-0 Tottenham
+
+### Result Analysis
+
+| Bet Type | Line | Outcome |
+|----------|------|---------|
+| **Under 2.5** | @ 1.93 | **WON** (0 goals) |
+| Brentford ML | @ 2.31 | **LOST** (Draw) |
+| Tottenham ML | @ 3.00 | **LOST** (Draw) |
+| Tottenham +0.25 | @ ~2.00 | Would have **WON** (half win) |
+| Draw | @ 3.50 | Would have **WON** |
+
+### Correct Read: Low-Scoring H2H Pattern Continued
+
+| Our Assessment | Reality |
+|----------------|---------|
+| "Under 2.5 is BEST OPTION — H2H pattern (2-0, 2-0)" | **NOW 2-0, 2-0, 0-0** — Pattern confirmed |
+| "Frank's defensive setup works" | **EXACTLY** — 0-0 |
+| "HIGH discipline risk" | Game was controlled, few cards |
+| "Spurs away form strong (5W-2D-2L)" | Drew — still unbeaten run continues |
+
+### What Happened
+
+- **0-0 draw** — Third consecutive low-scoring H2H
+- Thomas Frank's defensive 5-3-2 neutralized Brentford
+- Keith Andrews couldn't break down his predecessor's system
+- H2H now: 2-0, 2-0, 0-0 (4 goals in 3 games = 1.33 per match)
+- Both managers prioritized not losing
+
+### Why Under 2.5 Was PERFECT
+
+| Factor | Our Weight | Reality |
+|--------|------------|---------|
+| H2H pattern (2-0, 2-0) | HIGH | Now 0-0 — pattern STRONGER |
+| Frank's defensive setup | HIGH | Worked perfectly |
+| Andrews' defensive approach | MEDIUM | Also shut down attack |
+| Discipline risk | HIGH | Didn't materialize badly |
+
+### The Lesson: Manager vs Former Club = Tactical Stalemate
+
+**Pattern confirmed:**
+- When manager faces former club, they KNOW the opponent inside-out
+- Both sides neutralize each other
+- Result: Low-scoring, tactical chess match
+
+**Rule to add:**
+> When manager faces FORMER CLUB:
+> - Expect tactical stalemate
+> - Lean HEAVY Under
+> - Manager knows opponent's weaknesses AND strengths
+> - Often results in draws or narrow margins
+
+### What We Got Right
+
+- Under 2.5 @ 1.93 was the BEST BET (we identified it!)
+- Correctly assessed Frank's defensive away setup
+- H2H low-scoring pattern was the key signal
+
+### What We Missed
+
+- Could have been MORE confident on Under
+- Tottenham +0.25 would have been better than ML
+- Draw @ 3.50 had value
+
+### Future Application
+
+1. **Manager vs former club = LEAN UNDER**
+2. **H2H low-scoring pattern (3+ games) = trust it**
+3. **When both managers are defensive-minded = Under is safest**
+
+### Bet Outcome Summary
+
+| Bet | Stake | Result | P/L |
+|-----|-------|--------|-----|
+| Tottenham ML @ 3.00 | 1u | LOST | -1.00u |
+| Under 2.5 @ 1.93 | NOT BET | Would have WON | Missed +0.93u |
+
+---
+
+*Post-match update: January 01, 2026*
