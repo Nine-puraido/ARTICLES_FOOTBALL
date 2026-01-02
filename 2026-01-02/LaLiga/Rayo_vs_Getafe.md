@@ -12,19 +12,19 @@
 
 | Metric | Model | Market | Gap |
 |--------|-------|--------|-----|
-| **Asian Handicap** | -0.25 (Rayo) | -0.75 (Rayo) | **-0.50 SIGNIFICANT** |
+| **Asian Handicap** | -0.25 (Rayo) | -0.25 (Rayo) | **0.00** |
 | **Total Goals** | 1.75 | O/U 1.75 (O: 1.99) | **0.00** |
 
 **1X2 Odds:** 2.04 / 2.89 / 4.54
 
-**Classification:** CASE E — Market MORE Aggressive on AH Than Model (Conflict)
+**Classification:** CASE F — Agreement (Both gaps < 0.25)
 
 ---
 
-## RED FLAG: MARKET -0.75 vs MODEL -0.25
+## MODEL-MARKET AGREEMENT
 
-Why is market 0.50 goals MORE aggressive on Rayo?
-This is a **MADRID DERBY** — needs investigation
+Model and market now agree on AH (-0.25) and Totals (1.75).
+Both see this as a tight, low-scoring derby match.
 
 ---
 
@@ -141,23 +141,17 @@ This is a **MADRID DERBY** — needs investigation
 
 ## MARKET LOGIC ANALYSIS
 
-### Why Market is MORE Aggressive on Rayo (-0.75 vs -0.25)
+### Why Market and Model AGREE on -0.25
 
-| Factor | Market's View |
-|--------|---------------|
-| Rayo unbeaten in 7 home games | Home fortress perception |
-| Rayo 8-game H2H dominance | Psychological edge |
-| Getafe crisis (4-0, 5 losses in 6) | Panic-reaction to form collapse |
-| Public money on Rayo | Volume management |
-
-### Why Model is More Cautious (-0.25)
-
-| Factor | Model's View |
-|--------|--------------|
+| Factor | Interpretation |
+|--------|----------------|
 | Rayo home: Only 1 win (5 draws) | Home "fortress" is draws, not wins |
-| Rayo scoring: 0.76 goals/home | Can't score enough to cover -0.75 |
+| Rayo scoring: 0.76 goals/home | Limited attacking output |
 | Getafe's 4-4-2 block | Bordalás system designed for this |
-| H2H: 5 of 7 draws | Stalemate pattern |
+| H2H: 5 of 7 draws | Stalemate pattern recognized |
+| Both teams have injuries + AFCON | Reduced quality on both sides |
+
+**Market correctly priced this as tight derby**
 
 ---
 
@@ -171,12 +165,12 @@ This is a **MADRID DERBY** — needs investigation
 - Multiple 0-0 draws
 
 **Rayo Home AH Coverage:**
+- On -0.25 line: Covers on any win
 - On -0.50 line: 6/7 covered (86%)
-- On -0.75 line: **Only 1/7 covered (14%)**
 
-**CMP Verdict:** **CONSISTENT but AGGRESSIVE**
-- Market adjusted for Getafe crisis
-- But -0.75 requires WIN, not draw
+**CMP Verdict:** **CONSISTENT**
+- Market now correctly priced as slight edge
+- -0.25 is fair given H2H draw pattern (5 of 7)
 - Rayo's home record: Draws, not wins
 
 ---
@@ -185,26 +179,25 @@ This is a **MADRID DERBY** — needs investigation
 
 | Observation | Interpretation |
 |-------------|----------------|
-| Market -0.75 Rayo | Aggressive — requires 1-0 minimum |
+| Market -0.25 Rayo | Slight edge — consistent with model |
 | Totals 1.75 agreement | Both expect Under |
 | H2H: 5 of 7 draws | Draw most likely outcome |
 
-**CONFLICT (CASE E):**
-- AH says Rayo wins by margin
-- Totals says low-scoring
-- H2H says DRAW
-- **These don't align cleanly**
+**CASE F — Agreement:**
+- AH and Totals both aligned between model and market
+- H2H stalemate pattern supports tight match pricing
+- No conflict to exploit
 
 ---
 
 ## FINAL STATEMENT
 
 ```
-1. Market is protecting against: A blowout Rayo win (2+ goals) using
-   tight total while pricing aggressive -0.75 AH to capture volume
+1. Market is protecting against: Nothing specific — model and market
+   now agree this is a tight, low-scoring derby
 
-2. AH verdict: RISK-MANAGING — Market over-aggressive relative to
-   Rayo's home output (0.76 goals) and H2H draw pattern (5 of 7)
+2. AH verdict: MARKET RIGHT — Agreement at -0.25; H2H stalemate
+   pattern (5 of 7 draws) correctly priced by both
 
 3. Totals verdict: MARKET RIGHT — Under 1.75 is fair; both teams'
    scoring profiles and H2H history (4 goalless in 7) support
@@ -212,23 +205,20 @@ This is a **MADRID DERBY** — needs investigation
 4. Discipline risk: MEDIUM-HIGH — Ortiz Arias elevated recently;
    derby physicality expected
 
-5. CMP Verdict: CONSISTENT but AGGRESSIVE — Market adjusted for
-   Getafe crisis but -0.75 requires win, not draw
+5. CMP Verdict: CONSISTENT — Market correctly priced as slight edge
 
 6. Combined decision: SKIP
 
-7. Best bet (1.80-2.20): None — CASE E conflict; H2H stalemate
-   pattern suggests draw most likely
+7. Best bet (1.80-2.20): None — No disagreement to exploit
 
-8. One-line justification: Market's -0.75 AH reflects volume
-   management + Getafe crisis perception, but Rayo's home record
-   (1W-5D-1L) and H2H stalemate (5 of 7 draws) suggest draw is
-   most likely outcome — no edge on either side
+8. One-line justification: Model and market agree on -0.25 AH and
+   1.75 Total; H2H stalemate pattern (5 of 7 draws) supports tight
+   pricing — no edge identified
 ```
 
 **Confidence:** LOW
 
-*This is a stalemate derby. 5 of last 7 were draws. Market is over-aggressive on Rayo. Model is more realistic. But no clear bet emerges.*
+*Model and market agree. This is a stalemate derby. 5 of last 7 H2H were draws. No edge to exploit.*
 
 ---
 
@@ -236,12 +226,12 @@ This is a **MADRID DERBY** — needs investigation
 
 | Bet | Odds | Assessment |
 |-----|------|------------|
-| Rayo ML | @ 2.04 | CONSIDER — but H2H shows draws |
-| Draw | @ 2.89 | **BEST VALUE** — H2H pattern (5 of 7) |
-| Getafe +0.75 | @ ~1.95 | VALUE — covers on draw |
-| Under 1.75 | @ 1.84 | SUPPORTED — 4 goalless in last 7 H2H |
+| Rayo ML | @ 2.04 | FAIR — but H2H shows draws |
+| Draw | @ 2.89 | H2H pattern (5 of 7) but outside range |
+| Rayo -0.25 | @ ~1.95 | FAIR — no edge |
+| Under 1.75 | @ 1.84 | FAIR — 4 goalless in last 7 H2H |
 
-**Note:** Draw @ 2.89 has value given H2H pattern, but outside 1.80-2.20 range
+**Note:** Model and market agree — no clear edge identified
 
 ---
 

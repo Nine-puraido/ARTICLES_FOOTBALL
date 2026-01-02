@@ -12,19 +12,21 @@
 
 | Metric | Model | Market | Gap |
 |--------|-------|--------|-----|
-| **Asian Handicap** | +1.25 (Milan) | +1.25 @ ~1.95 | **0.00** |
-| **Total Goals** | 3.25 | O/U 2.5 (O: 1.89) | **-0.75 SIGNIFICANT** |
+| **Asian Handicap** | +1.25 (Milan) | +1.00 @ ~1.95 | **+0.25 (Market SOFTER)** |
+| **Total Goals** | 3.25 | O/U 2.25 | **-1.00 SIGNIFICANT** |
 
 **1X2 Odds:** 6.17 / 4.14 / 1.54
 
-**Classification:** CASE B — AH Agreement + Lower Totals = Controlled Win Expected
+**Classification:** CASE A — Softer AH + Much Lower Totals = Controlled Win Expected
 
 ---
 
-## RED FLAG: 0.75-GOAL GAP ON TOTALS
+## RED FLAGS: MARKET ADJUSTMENTS
 
-Model expects 3.25 goals; Market expects 2.5
-**Why does market expect lower scoring?**
+1. **AH Softened:** Model -1.25 → Market -1.00 (0.25 gap)
+2. **Totals Dropped:** Model 3.25 → Market 2.25 (1.00 gap!)
+
+**Market has adjusted for Milan's injuries and expects a tight, low-scoring game**
 
 ---
 
@@ -131,23 +133,28 @@ Model expects 3.25 goals; Market expects 2.5
 
 ## MARKET LOGIC ANALYSIS
 
-### Why Market Agrees on AH (+1.25)
+### Why Market SOFTENED on AH (-1.25 → -1.00)
 
-| Factor | Assessment |
-|--------|------------|
-| Milan 15-game unbeaten | Clear quality gap |
-| Milan away unbeaten | 4W-3D, controlled wins |
-| Cagliari fighting relegation | Defensive approach likely |
+| Factor | Market's Adjustment |
+|--------|---------------------|
+| Pulisic DOUBTFUL | Key creator uncertain |
+| Nkunku OUT | Attacking threat reduced |
+| Allegri fatigue warning | May manage intensity |
+| Cagliari also has injuries | Belotti, Folorunsho out |
 
-### Why Market is Lower on Totals (2.5 vs 3.25)
+**Framework:** Model doesn't know about injuries. Market does. Market SOFTENED → Market is pricing in Milan's issues.
+
+### Why Market is MUCH Lower on Totals (3.25 → 2.25)
 
 | Factor | Market's View |
 |--------|---------------|
+| **1-goal gap on Totals** | Market expects very low scoring |
 | Pulisic/Nkunku doubts | Milan attack compromised |
 | Allegri's fatigue warning | Intensity management |
 | Cagliari home defense | Beat Roma 1-0, drew Napoli |
 | Abisso high-card style | Flow disruption |
 | Milan 47% U2.5 ratio | Not a blowout team |
+| Both teams have injuries | Reduced quality on both sides |
 
 ---
 
